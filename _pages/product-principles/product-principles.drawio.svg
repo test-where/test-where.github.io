@@ -1,1 +1,731 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1042px" height="942px" viewBox="-0.5 -0.5 1042 942" content="&lt;mxfile&gt;&lt;diagram id=&quot;-aiMvA25e1ZBSR4ufbHA&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"><defs><linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-dae8fc-1-7ea6e0-1-s-0"><stop offset="0%" style="stop-color: rgb(218, 232, 252); stop-opacity: 1;"/><stop offset="100%" style="stop-color: rgb(126, 166, 224); stop-opacity: 1;"/></linearGradient></defs><g><rect x="1" y="1" width="1040" height="940" rx="65.8" ry="65.8" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-dasharray="6 6" pointer-events="all"/><rect x="21" y="21" width="1000" height="720" rx="43.2" ry="43.2" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-dasharray="6 6" pointer-events="all"/><rect x="41" y="41" width="960" height="370" rx="29.6" ry="29.6" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-dasharray="6 6" pointer-events="all"/><rect x="36.47" y="421" width="220" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 451px; margin-left: 37px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Teamwork / Process</div></div></div></foreignObject><text x="146" y="456" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">Teamwork / Process</text></switch></g><rect x="271" y="581" width="270" height="130" rx="19.5" ry="19.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 268px; height: 1px; padding-top: 646px; margin-left: 272px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><div><b><span style="background-color: initial;">Test Ideas Responsibly / </span>Testing Breadth</b></div><div>- testing strategy / approach</div><div>- testing techniques</div><div>- quality attributes</div><div>- UAT</div><div>- test coverage and reporting</div><div>- prevention over detection</div><div>- protect existing value while experimenting</div></div></div></div></foreignObject><text x="406" y="650" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Test Ideas Responsibly / Testing Breadth...</text></switch></g><rect x="51" y="146" width="250" height="95" rx="14.25" ry="14.25" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 194px; margin-left: 52px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><div><span style="background-color: initial;"><b>Code Quality and Tech Debt</b></span></div><div><span style="background-color: initial;">- unit testing</span></div><div><span style="background-color: initial;">- code maintenance, tech debt tracking, continuous improvement</span></div><div><span style="background-color: initial;">- standards (code conventions, architecture, diagrams, documentation, etc.)</span></div></div></div></div></foreignObject><text x="176" y="197" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Code Quality and Tech Debt...</text></switch></g><rect x="51.47" y="251" width="249.53" height="140" rx="21" ry="21" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 321px; margin-left: 52px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><div><span style="background-color: initial;"><b>Automation and Tools</b></span></div><div><span style="background-color: initial;">- team has proper automation and tools that allow to move fast (high productivity) and not to break things (high quality)</span></div><div><span style="background-color: initial;">- automation is seen as value rather than a roadblock/obstacle in a process</span></div><div><span style="background-color: initial;">- automating both functional tests and </span><span style="background-color: initial;">quality attribute (a.k.a. non-functional) tests</span></div></div></div></div></foreignObject><text x="176" y="325" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Automation and Tools...</text></switch></g><rect x="311" y="146" width="217" height="146" rx="21.9" ry="21.9" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 215px; height: 1px; padding-top: 219px; margin-left: 312px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><div><span style="background-color: initial;"><b>Deployment Infrastructure</b></span></div><div><span style="background-color: initial;">- automation - test suites in CI and infra<br /></span></div><div><span style="background-color: initial;">- team engagement in the process</span></div><div><span style="background-color: initial;">- metrics???</span></div><div><span style="background-color: initial;">- branching strategy, versioning</span></div><div><span style="background-color: initial;">- release strategy (</span><span style="background-color: initial;">Small, Frequent, Uncoupled Releases)</span></div><div><span style="background-color: initial;">- disaster recovery, restore mechanism, quick reaction</span></div></div></div></div></foreignObject><text x="420" y="223" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Deployment Infrastructure...</text></switch></g><rect x="271" y="461" width="226" height="100" rx="15" ry="15" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 224px; height: 1px; padding-top: 511px; margin-left: 272px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Empowered with Problems to Solve</b><div>- incoming requests (tasks) are based on problems to solve, not solutions to implement</div><div>- business understand they do not know what is possible in engineering</div></div></div></div></foreignObject><text x="384" y="515" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Empowered with Problems to Solve...</text></switch></g><rect x="36.47" y="501" width="220" height="120" rx="18" ry="18" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 561px; margin-left: 37px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Outcomes over Output<br />(Results over Effort)</b><div>- understanding of value and quality is based on product strategy and business outcomes, not delivered volume of code/features (or story points)</div><div>- effort without progress is useless, and progress is measured by outcomes</div></div></div></div></foreignObject><text x="146" y="565" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Outcomes over Output...</text></switch></g><rect x="35" y="631" width="214" height="80" rx="12" ry="12" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 212px; height: 1px; padding-top: 671px; margin-left: 36px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Sense of Ownership<div><span style="font-weight: normal;">- team efforts translate to meaningful outcomes, so team owns those outcomes, and care to deliver results</span></div><div><span style="font-weight: 400;">- whole teams owns quality</span><span style="font-weight: normal;"><br /></span></div></div></div></div></foreignObject><text x="142" y="675" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">Sense of Ownership...</text></switch></g><rect x="508" y="421" width="240" height="140" rx="21" ry="21" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 491px; margin-left: 509px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Collaboration</b><div>- not a democracy - decisions are owned by subject experts (only they know what is possible)</div><div>- however, experts are not made bottlenecks</div><div>- most feedback loops (within team, with stakeholders, with leadership) are short and fast</div><div>- whole teams owns quality<br /></div></div></div></div></foreignObject><text x="628" y="495" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Collaboration...</text></switch></g><rect x="756" y="448.5" width="235" height="105" rx="15.75" ry="15.75" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 233px; height: 1px; padding-top: 501px; margin-left: 757px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Embrace Rapid Experimentation</b><div>- testing ideas, prototypes, and solutions early and quickly</div><div><span style="background-color: initial;">- then, minimizing waste - eliminating what's not working before over-investing</span></div></div></div></div></foreignObject><text x="874" y="505" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Embrace Rapid Experimentation...</text></switch></g><rect x="561" y="571" width="240" height="150" rx="22.5" ry="22.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 646px; margin-left: 562px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Assess Product Risks</b><div><div>- Value. Will it create value for the customers?</div><div>- Usability. Will users figure out how to use it?</div><div>- Viability. Can our business support it?</div><div>- Feasibility. Can it be done (technology)?</div><div>- Ethics. Should we do it? Are there any ethical considerations?</div></div></div></div></div></foreignObject><text x="681" y="650" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Assess Product Risks...</text></switch></g><rect x="311" y="306" width="220" height="85" rx="17" ry="17" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 349px; margin-left: 312px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Monitoring and Observability<div><span style="font-weight: normal;">- team is able to answer most operation-related questions (business outcomes related and technical) via observability</span></div></div></div></div></foreignObject><text x="421" y="352" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">Monitoring and Observability...</text></switch></g><rect x="36.47" y="821" width="176" height="70" rx="14" ry="14" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 174px; height: 1px; padding-top: 856px; margin-left: 37px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Trust over Control</b><div>- leading with context, not command-and-control</div></div></div></div></foreignObject><text x="124" y="860" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Trust over Control...</text></switch></g><rect x="491" y="773.5" width="257" height="120" rx="24" ry="24" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 255px; height: 1px; padding-top: 834px; margin-left: 492px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Innovation over Predictability</b><div>- Product mindset over Project mindset</div><div>- Business outcomes over Delivering Features</div><div>- long-term investment/strategy over project budget</div><div>- time to money/value/outcomes over (feature) time to market</div></div></div></div></foreignObject><text x="620" y="837" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Innovation over Predictability...</text></switch></g><rect x="761" y="773.5" width="245" height="105" rx="21" ry="21" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 243px; height: 1px; padding-top: 826px; margin-left: 762px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Learning over (Fear of) Failure</b><div>- rapid experimentation (with some resulting in failures) --&gt; confidence/findings --&gt; frequent learning opportunities</div><div>- continuous improvement over blaming and finger-pointing</div></div></div></div></foreignObject><text x="884" y="830" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Learning over (Fear of) Failure...</text></switch></g><rect x="21" y="752" width="190" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 782px; margin-left: 22px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b style="font-size: 18px;">Culture</b></div></div></div></foreignObject><text x="116" y="787" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle">Culture</text></switch></g><rect x="541" y="61" width="450" height="330" rx="16.5" ry="16.5" fill="url(#mx-gradient-dae8fc-1-7ea6e0-1-s-0)" stroke="#6c8ebf" pointer-events="all"/><rect x="696" y="146" width="140" height="40" rx="6" ry="6" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 166px; margin-left: 697px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Product Strategy</div></div></div></foreignObject><text x="766" y="170" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">Product Strategy</text></switch></g><rect x="151" y="71" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 101px; margin-left: 152px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Code</div></div></div></foreignObject><text x="211" y="106" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">Code</text></switch></g><rect x="391" y="71" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 101px; margin-left: 392px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">System</div></div></div></foreignObject><text x="451" y="106" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">System</text></switch></g><rect x="706" y="71" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 101px; margin-left: 707px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Product</div></div></div></foreignObject><text x="766" y="106" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">Product</text></switch></g><path d="M 271.5 91 L 271.5 81 L 371.5 81 L 371.5 70.5 L 390.5 86 L 371.5 101.5 L 371.5 91 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/><path d="M 511.5 91 L 511.5 81 L 686.5 81 L 686.5 70.5 L 705.5 86 L 686.5 101.5 L 686.5 91 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/><path d="M 705.5 111 L 705.5 121 L 530.5 121 L 530.5 131.5 L 511.5 116 L 530.5 100.5 L 530.5 111 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/><path d="M 390.5 111 L 390.5 121 L 290.5 121 L 290.5 131.5 L 271.5 116 L 290.5 100.5 L 290.5 111 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/><rect x="551" y="193.5" width="221.87" height="95" rx="14.25" ry="14.25" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 220px; height: 1px; padding-top: 241px; margin-left: 552px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Focus</b><div>- product strategy (mission, vision, objectives, success metrics, North Star, etc) is well known to whole team</div><div>- picking carefully and saying "NO" to a lot of things</div></div></div></div></foreignObject><text x="662" y="245" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Focus...</text></switch></g><rect x="550.07" y="298.5" width="221.87" height="85" rx="12.75" ry="12.75" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 220px; height: 1px; padding-top: 341px; margin-left: 551px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Powered by Insights</b><div>- most of decisions are based on data/insights</div><div>- analytics, customer data, new tech insights, industry trends, etc.</div></div></div></div></foreignObject><text x="661" y="345" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Powered by Insights...</text></switch></g><rect x="781.47" y="196" width="199.53" height="75" rx="11.25" ry="11.25" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 234px; margin-left: 782px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Transparency</b><div>- product strategy is clearly communicated with respective reasoning data</div><div>- no feeling of "hidden agenda"</div></div></div></div></foreignObject><text x="881" y="237" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Transparency...</text></switch></g><rect x="781" y="278.5" width="200" height="102.5" rx="15.38" ry="15.38" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 330px; margin-left: 782px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Placing Bets</b><div>- everyone, especially product leaders, accept some solutions would not solve the problem and that is the cost of experimenting to find the best solutions that do</div></div></div></div></foreignObject><text x="881" y="333" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Placing Bets...</text></switch></g><rect x="228" y="761" width="246" height="110" rx="22" ry="22" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 244px; height: 1px; padding-top: 816px; margin-left: 229px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Principles over Process</b><div>- team knows their core principles (values) well and shapes processes around them</div><div>- team has high flexibility to change most of processes and drives continuous process improvement</div></div></div></div></foreignObject><text x="351" y="820" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Principles over Process...</text></switch></g><rect x="228" y="878.5" width="246" height="42.5" rx="8.5" ry="8.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 244px; height: 1px; padding-top: 900px; margin-left: 229px;"><div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Well-being and Satisfaction</b></div></div></div></foreignObject><text x="351" y="903" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">Well-being and Satisfaction</text></switch></g></g><switch><g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/><a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank"><text text-anchor="middle" font-size="10px" x="50%" y="100%">Text is not SVG - cannot display</text></a></switch></svg>
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1042px" height="942px" viewBox="-0.5 -0.5 1042 942" content="&lt;mxfile&gt;&lt;diagram id=&quot;-aiMvA25e1ZBSR4ufbHA&quot; name=&quot;Page-1&quot;&gt;5VxZc9s4Ev41rnUe7CJFnY+OHM2mamfjjTPHPkIkKGFNEgxAStb8+u0GwBuyJJv2KE5mKhFBEkfj67vBC28eP/4iSLr+lQc0uhg4weOFd3sxGMxmI/gbG3a6YTgwDSvBAt3kVg337C9qGh3TmrOAysaDGedRxtJmo8+ThPpZo40IwbfNx0IeNUdNyYp2Gu59EnVb/2BBttat05FTtf+TstW6GNl1zJ2YFA+bBrkmAd/WmrxPF95ccJ7pX/HjnEZIu4Iu+r3FnrvlxARNsmNeGOgXNiTKzdrMvLJdsVjB8ySg+Lx74X3crllG71Pi490t7C60rbM4MreJ8M12TeAqIHJdvikzwR9KesFKP3Yna+a/oSKjj7UmM/lfKI9pJnbwiLk7NHTcNS+31a64TtG4rm3JrGgkBgqrsuuKWvDDEMxOPO/ViDeGq5An2b3pyX0TYo6bxBzbiOlYiDkZ9EDM4asRc2qlV4OcPRBv2iTetEu82dhCO2/SA+1GHdp9oyTecvFwgVuzgL/vBPeplC+jaRuS6loT2Z32Q8bJ6Ho4cao/XpO/LZgsZWmdrOMeqDq2IHIcZYgdtoGfq0wtWTct2w0yJUmD1OPvOVdPEv9hpch+5fOIiwvvBgdNWMZIpDswTxZdfqMyg0c+BxSWM3C+UpnyRLJltCu2d0xi3KpkKdPaFOCWnkXVDUtW8M5HQQnSr3quM31os6yy1nSFSrfsEfiLZHRVTsghaSo48dfP7C+j/jph33PQ8qd08D0nEctwFiTLBFvm2Ykd/Hbz7eQZK0MDEI5GAwycBPC3oCkXei0n9JYKugHWYRyRg12ijUSBFrrppJ44vga/6CMriKqRDMyzZhFVt1IqWIwj7p/oi+QFi6K5xji864Uj/K+UxrU7Y/XHSJRau/7Tj2Tx3JZ6G1hkycQiS1yvB2EyOUWY9Cg7OvJpDsY4vPOfilMUYL9R5FXnli6zA2KhLlKOxuQrrAxhnsP9utw4y0n6muIxYUlGE5IAswzmRsYpBl+qNQjoXC1irj0XWFHOcxT4LAZ23lBk1DNdoswARUQEONtLs15YghFmUq8JLDIUF36WC0OBgJGVILG5H3A/xzUSLe2wiWb+9YcT1/xuBNasKa/c6agrr0Y232b0cnE1PRdxdZNnPDaIKEQVuPp1rX7uQioDWxy3SBlvwMmp0uuku7BML8zJ1gQlAokivlXNKD1AAMA/IVH2xuUatlv3FuRgHWxAlH8o+0l4Vry2BEvvQXUJokXW3jSW0qnM9VY0a1CH4cQlpYkGdWXIgM25VsQEiqmb2MZJsIy4D6te8CUIJl/ZOqy4nxaO0FmvW9lrS442uhPmiTIASWRUnSx2+iiz/xVmajGzEVrk+uGaXCsAJlfVrD9U0/5ZBflTPm0p5+tyfTi7HnkWU7SPsNXsXGT7LU0jvtNmjfM5CQUIN5Eb++CHEe8NUVXzCWXOlPepRc/8cymeGa60JIY48+UZ7UWTFfi3Zq/UikD0nr04Rd5gPvDKwvx/ntNcCvAK1u1IylwLGQnIOl/nRtCIEkkbE3cu304V3ccEhRvSaiHo91wBFK9+S3yepxFFjvuqJynP1doJmATRpywZQVUsyWy/AFHChfIewVkkCZOxvvE9Z2jhwAOkHRz6qVSrNzrCSXInNk06frkmLSJKFlVaaq1Pccq3VCgcbpky6O4EX0Y0loWRfs+jzZMarxXcYwDtWEsLBXltEV5mRD5I5QUoxCwB8Tio0ktpa0iph5yX3gI05MZX10+wGJinFXI4HHdc5pIlSh84CCmhAgNaWeCuBbwc8CFRzs1W+zrKxE+5xKh2aa6DzoHOqPgpopPO7HpW/9OA9cix5T3GFlg7PRiIrnsY1l/yDECo7BsTqIaWNC/RUtk1l1+pzKOs9uSnMOQi+3AC4issadjz8KLyAjXCKp9EYamNfnSTm0pKv1YDLC+XVLFFQCO2Mdy7ARaJaTG6jnItQkrQXlUMyIUagat9TTlLsobGOcw9VBHGCAqOxMSpr4Sen1pXLkGXySKippbQfiQGXZfrKS93jXW9cx56Onc4shQHWHOHbh/pbLdbWXFPE1nC58s2AUSvWfocKwNpeLU1U75RYBXxETa8gpeS8GBwyogot12HlyhBIzPMow4jSF71wLdaQay5XknjQY1GX2sf1avhHm3IaBnwyvZXhzJDEIj7yLJdc6VscHGyWl0pSZ5nw56yOS/2At+ed9v5/9fi5WEzWTexMK877DLvtA/etRX2dNJoUUSWXJCW9X1Ik2m1QhRzxNwXxMdFKyeA+kwaC0zzEOCxkuIyX/6vyOimVLPxJU9UDYCxrp4wqU7TQ2uwWBXfzhvD6VnpFcREJXmWPMsimlD/4bQ8e8xVjCSkNECXCX5GnKdqTaj7dIBByZz5RWk3gwHwQIFn0RZo3ADvLtDStDJ/5VqrUi2VdNz8hAkeJxusfPs+letoOGlwpLUUx1Zq10vMsmD1pz2tpUBSgr9PUoa7/qkscDiVTatKFKarbuba0Mp4tkubCq/uOVEiosq2VE56tDsad68UXQDpYNKp4DSymP2lF7bFkIORPaCn4V6Rd0AB8g9ZsjrWkZmEBA11NAIN+SuWbJ6Vd383LDEpMq0FS0wn15bwgzey+Wk9JGndbt1fhylupNSuwV3pA31lsiGtn+KFPezxO46ImZ4/mJ6RKoISVFuUhWMWcp2bU9UAOThGMQruRhT2iIosSZYMZW5tOHCCUAM4IVvlwhiiWm0Vlmeu7FOY1omj/c5qo80VG/IcV1HzE2Weplq3nN7/AoQJa4+gqLfECQc8UZk0Vf4GoF3tPpw6wifQnr7Ezu/BhYxU2El3XU3YudE2+poK7UAjqCm+qHKMPlYXgkIlWqwdmsC75e+x06oYc49VeaM+VF63/vRXDqKe63iY0TFflsALGwPaN/QllXVJdLBOcRw4lFvl6hnTDsscFICuBEVPUytEVBhaVV5aIy9O9bAJHKpCUF9nkTcMDWduW/JZ6p6qBn3gvK371I6Le0OLYrIFP6Z96KX9xY6lrvkmcg0THR+YAykEj06w0NDmN+aKdgKwZI4+ZvXoHYAqBhhdEWUwtUc4L2D8LTGxqe2Mx8QSV+7jlIK7v6is3OzPScI3pFkBfSdowPysy/CHIFKZPGDcBpJm9T658abLWyfo2I9W0WW6vtVBL43NRRkePqH7iCerq4wKJWeVka3zMIta9NoMlpbrWObB6sRlZCyuAoBgeUC/C2O7LbrrujSh7g/tN4l42D/we+WrkdcUsFN3YLP9R7bUYy/x5f1VPCVb/Avc0cQkTMweAh7xXx7iLi4Iiw7U2rQQI4xjTduOtQ7b4F5zhQwd7zUeNN4P9VgqP3kFXZnSNTMYCu8QTE5VG70ImcrzSPujYZnmRx1QLlDZ5FgPzk7ktv2l1gXVlhGJ6zYXzG8F/q/K8JxNbvLtoD91joL+8LXc3sGTWfd9Jq5UxEED152mj1bzdg6Q3csPL9rN/s/Jtc5qTmZuV5HPLPZdHwfjBrb8cI9oDwidhr4V7f6ULkMUBgKsP9qA+ISSMXUanDDqSda3zna6lmz80FaJ7/Vxcqggbo3alWFzX1oEL8Zn6Zj0YHR6zcCYrSrHtTnOfYSKLcey9Zmn/ij0Khztts97WKIN7muddbUcv77fyYzGZ0+2ofd3kq0bgS1588zpNhmO/ka62c5Wtwgm1yTFn2FEH2/wox2wbpoE5uetHxEpmd+kW0VkVAT0kWV/mjv4+7/Yfj0Ymcvbx9pzt7viIoG1/Fm/qL+G19V76qp4ce+eSJ4LnzaFU0YEemsN3qNB46sj3Z2r7YxN2xRtKoQGLmhjErbdMiPcoR17se9DBq7XMtn0csxL1ZZ3+hk4BzrSNOh0BBtMdrXHdCFVB10lXY4DnC0k9YMDrm41BTQkeZQdDcOhBYajs4LhaDy6bkkob3b9TCyOp0d09qZ4tMXCXg2PTgOPkyPx6DbxOHlNPI7OXizOWhF1dUTreWh0ncnBvt4UjLZY0g8OxueLQe+sYDduq+PxM0E3Gh/o6C0RV9jsT0UviwZM+a0FDdVjVchmYYq6r1LBEp+lEYb9FiH3MY636AZ3FvpOGdohllThofCntY78MmZSll8s2LDqN1cVe7D3RSVt7uuzcuW5NNX8by5U6PQ+w9is+ewBxklVjnWrKYe1faooDkPu9eK0k2KdKTPfmFBlumEe1aqVJNnpWxXt/v2lTkeT573ABIWKjmIdc3Gw/BxCoK8Z7m855wPPGvMcuNdTS8S/jy8yeEccyrgrTxqpktHPicQ5HFvrU6vLVFvbLUhtHKoISAZYWLDuIIdxSBIS7bKSA4rioLJXlcKlqppHfySlGmWurgJ4Q+1PBpsayOprIe8fidPZtdMsxfQ8a93ZHjD2keH3ujFJS4afJFIt1T8laWuVsUoS+lFRXol5/RyrQrL6sTpBZarlrbog0pybNZg6AZ4JCrqQ0qh22qiShGsWBPpbFCvAHmmomveNvekAv2TQEoSW0O7M/vWCSR/IO6I2/y4ivvnQHT1J+mHR+06V4ClxgnBiROvICpam2NyUAINGT/X5SZX3rBcDb035XXnAcmOK7i7K85il8s1qNfumYLImiVsfatOKGLOk5dNL882B+ilO3SXW/b1/WDbloWuVh7ZPl7rOoO15PQuVR5Sn39Xs1FoZSuvrCYcL01X5HZqDBitMKLQIDavaGJdqNirjboxIY+ihK2e+RYSjU63gcft1j6fZlI3PG5mvC6GXyIp6HQ1XPL6uPpBYNzEaM1DDB0Lby820fPmViT3fQvsp8u6DcVP0Tm2HgoeW4q0ytP8iiB9RbP4HvHK1pPVaiXtwfmXY+UhBX4n1H2i7ZnapZNuw4XOEElxW3w3XPnn18XXv0/8B&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-dae8fc-1-7ea6e0-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(218, 232, 252); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(126, 166, 224); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <rect x="1" y="1" width="1040" height="940" rx="65.8" ry="65.8" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-dasharray="6 6" pointer-events="all"/>
+        <rect x="21" y="21" width="1000" height="720" rx="43.2" ry="43.2" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-dasharray="6 6" pointer-events="all"/>
+        <rect x="41" y="41" width="960" height="370" rx="29.6" ry="29.6" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-dasharray="6 6" pointer-events="all"/>
+        <rect x="36.47" y="421" width="220" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 451px; margin-left: 37px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Teamwork / Process
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="146" y="456" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">
+                    Teamwork / Process
+                </text>
+            </switch>
+        </g>
+        <rect x="271" y="581" width="270" height="130" rx="19.5" ry="19.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 268px; height: 1px; padding-top: 646px; margin-left: 272px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div>
+                                    <b>
+                                        <span style="background-color: initial;">
+                                            Test Ideas Responsibly /
+                                        </span>
+                                        Testing Breadth
+                                    </b>
+                                </div>
+                                <div>
+                                    - testing strategy / approach
+                                </div>
+                                <div>
+                                    - testing techniques
+                                </div>
+                                <div>
+                                    - quality attributes
+                                </div>
+                                <div>
+                                    - UAT
+                                </div>
+                                <div>
+                                    - test coverage and reporting
+                                </div>
+                                <div>
+                                    - prevention over detection
+                                </div>
+                                <div>
+                                    - protect existing value while experimenting
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="406" y="650" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Test Ideas Responsibly / Testing Breadth...
+                </text>
+            </switch>
+        </g>
+        <rect x="51" y="146" width="250" height="95" rx="14.25" ry="14.25" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 194px; margin-left: 52px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div>
+                                    <span style="background-color: initial;">
+                                        <b>
+                                            Code Quality and Tech Debt
+                                        </b>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - unit testing
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - code maintenance, tech debt tracking, continuous improvement
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - standards (code conventions, architecture, diagrams, documentation, etc.)
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="176" y="197" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Code Quality and Tech Debt...
+                </text>
+            </switch>
+        </g>
+        <rect x="51.47" y="251" width="249.53" height="140" rx="21" ry="21" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 321px; margin-left: 52px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div>
+                                    <span style="background-color: initial;">
+                                        <b>
+                                            Automation and Tools
+                                        </b>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - team has proper automation and tools that allow to move fast (high productivity) and not to break things (high quality)
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - automation is seen as value rather than a roadblock/obstacle in a process
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - automating both functional tests and
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        quality attribute (a.k.a. non-functional) tests
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="176" y="325" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Automation and Tools...
+                </text>
+            </switch>
+        </g>
+        <rect x="311" y="146" width="217" height="146" rx="21.9" ry="21.9" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 215px; height: 1px; padding-top: 219px; margin-left: 312px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div>
+                                    <span style="background-color: initial;">
+                                        <b>
+                                            Deployment Infrastructure
+                                        </b>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - automation - test suites in CI and infra
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - team engagement in the process
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - metrics???
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - branching strategy, versioning
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - release strategy (
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        Small, Frequent, Uncoupled Releases)
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - disaster recovery, restore mechanism, quick reaction
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="420" y="223" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Deployment Infrastructure...
+                </text>
+            </switch>
+        </g>
+        <rect x="271" y="461" width="226" height="100" rx="15" ry="15" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 224px; height: 1px; padding-top: 511px; margin-left: 272px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Empowered with Problems to Solve
+                                </b>
+                                <div>
+                                    - incoming requests (tasks) are based on problems to solve, not solutions to implement
+                                </div>
+                                <div>
+                                    - business understand they do not know what is possible in engineering
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="384" y="515" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Empowered with Problems to Solve...
+                </text>
+            </switch>
+        </g>
+        <rect x="36.47" y="501" width="220" height="120" rx="18" ry="18" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 561px; margin-left: 37px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Outcomes over Output
+                                    <br/>
+                                    (Results over Effort)
+                                </b>
+                                <div>
+                                    - understanding of value and quality is based on product strategy and business outcomes, not delivered volume of code/features (or story points)
+                                </div>
+                                <div>
+                                    - effort without progress is useless, and progress is measured by outcomes
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="146" y="565" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Outcomes over Output...
+                </text>
+            </switch>
+        </g>
+        <rect x="35" y="631" width="214" height="80" rx="12" ry="12" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 212px; height: 1px; padding-top: 671px; margin-left: 36px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Sense of Ownership
+                                <div>
+                                    <span style="font-weight: normal;">
+                                        - team efforts translate to meaningful outcomes, so team owns those outcomes, and care to deliver results
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: 400;">
+                                        - whole teams owns quality
+                                    </span>
+                                    <span style="font-weight: normal;">
+                                        <br/>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="142" y="675" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Sense of Ownership...
+                </text>
+            </switch>
+        </g>
+        <rect x="508" y="421" width="240" height="140" rx="21" ry="21" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 491px; margin-left: 509px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Collaboration
+                                </b>
+                                <div>
+                                    - not a democracy - decisions are owned by subject experts (only they know what is possible)
+                                </div>
+                                <div>
+                                    - however, experts are not made bottlenecks
+                                </div>
+                                <div>
+                                    - most feedback loops (within team, with stakeholders, with leadership) are short and fast
+                                </div>
+                                <div>
+                                    - whole teams owns quality
+                                    <br/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="628" y="495" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Collaboration...
+                </text>
+            </switch>
+        </g>
+        <rect x="756" y="448.5" width="235" height="105" rx="15.75" ry="15.75" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 233px; height: 1px; padding-top: 501px; margin-left: 757px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Embrace Rapid Experimentation
+                                </b>
+                                <div>
+                                    - testing ideas, prototypes, and solutions early and quickly
+                                </div>
+                                <div>
+                                    <span style="background-color: initial;">
+                                        - then, minimizing waste - eliminating what's not working before over-investing
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="874" y="505" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Embrace Rapid Experimentation...
+                </text>
+            </switch>
+        </g>
+        <rect x="561" y="571" width="240" height="150" rx="22.5" ry="22.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 646px; margin-left: 562px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Assess Product Risks
+                                </b>
+                                <div>
+                                    <div>
+                                        - Value. Will it create value for the customers?
+                                    </div>
+                                    <div>
+                                        - Usability. Will users figure out how to use it?
+                                    </div>
+                                    <div>
+                                        - Viability. Can our business support it?
+                                    </div>
+                                    <div>
+                                        - Feasibility. Can it be done (technology)?
+                                    </div>
+                                    <div>
+                                        - Ethics. Should we do it? Are there any ethical considerations?
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="681" y="650" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Assess Product Risks...
+                </text>
+            </switch>
+        </g>
+        <rect x="311" y="306" width="220" height="85" rx="17" ry="17" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 349px; margin-left: 312px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Monitoring and Observability
+                                <div>
+                                    <span style="font-weight: normal;">
+                                        - team is able to answer most operation-related questions (business outcomes related and technical) via observability
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="421" y="352" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Monitoring and Observability...
+                </text>
+            </switch>
+        </g>
+        <rect x="36.47" y="821" width="176" height="70" rx="14" ry="14" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 174px; height: 1px; padding-top: 856px; margin-left: 37px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Trust over Control
+                                </b>
+                                <div>
+                                    - leading with context, not command-and-control
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="124" y="860" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Trust over Control...
+                </text>
+            </switch>
+        </g>
+        <rect x="491" y="773.5" width="257" height="120" rx="24" ry="24" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 255px; height: 1px; padding-top: 834px; margin-left: 492px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Innovation over Predictability
+                                </b>
+                                <div>
+                                    - Product mindset over Project mindset
+                                </div>
+                                <div>
+                                    - Business outcomes over Delivering Features
+                                </div>
+                                <div>
+                                    - long-term investment/strategy over project budget
+                                </div>
+                                <div>
+                                    - time to money/value/outcomes over (feature) time to market
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="620" y="837" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Innovation over Predictability...
+                </text>
+            </switch>
+        </g>
+        <rect x="761" y="773.5" width="245" height="105" rx="21" ry="21" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 243px; height: 1px; padding-top: 826px; margin-left: 762px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Learning over (Fear of) Failure
+                                </b>
+                                <div>
+                                    - rapid experimentation (with some resulting in failures) --&gt; confidence/findings --&gt; frequent learning opportunities
+                                </div>
+                                <div>
+                                    - continuous improvement over blaming and finger-pointing
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="884" y="830" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Learning over (Fear of) Failure...
+                </text>
+            </switch>
+        </g>
+        <rect x="21" y="752" width="190" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 782px; margin-left: 22px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b style="font-size: 18px;">
+                                    Culture
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="116" y="787" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle">
+                    Culture
+                </text>
+            </switch>
+        </g>
+        <rect x="541" y="61" width="450" height="330" rx="16.5" ry="16.5" fill="url(#mx-gradient-dae8fc-1-7ea6e0-1-s-0)" stroke="#6c8ebf" pointer-events="all"/>
+        <rect x="696" y="146" width="140" height="40" rx="6" ry="6" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 166px; margin-left: 697px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Product Strategy
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="170" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Product Strategy
+                </text>
+            </switch>
+        </g>
+        <rect x="151" y="71" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 101px; margin-left: 152px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Code
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="211" y="106" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">
+                    Code
+                </text>
+            </switch>
+        </g>
+        <rect x="391" y="71" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 101px; margin-left: 392px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                System
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="451" y="106" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">
+                    System
+                </text>
+            </switch>
+        </g>
+        <rect x="706" y="71" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 101px; margin-left: 707px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Product
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="106" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">
+                    Product
+                </text>
+            </switch>
+        </g>
+        <path d="M 271.5 91 L 271.5 81 L 371.5 81 L 371.5 70.5 L 390.5 86 L 371.5 101.5 L 371.5 91 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 511.5 91 L 511.5 81 L 686.5 81 L 686.5 70.5 L 705.5 86 L 686.5 101.5 L 686.5 91 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 705.5 111 L 705.5 121 L 530.5 121 L 530.5 131.5 L 511.5 116 L 530.5 100.5 L 530.5 111 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 390.5 111 L 390.5 121 L 290.5 121 L 290.5 131.5 L 271.5 116 L 290.5 100.5 L 290.5 111 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="551" y="193.5" width="221.87" height="95" rx="14.25" ry="14.25" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 220px; height: 1px; padding-top: 241px; margin-left: 552px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    <a href="/product-principles/focus/">
+                                        Focus
+                                    </a>
+                                </b>
+                                <div>
+                                    - product strategy (mission, vision, objectives, success metrics, North Star, etc) is well known to whole team
+                                </div>
+                                <div>
+                                    - picking carefully and saying "NO" to a lot of things
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="662" y="245" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Focus...
+                </text>
+            </switch>
+        </g>
+        <rect x="550.07" y="298.5" width="221.87" height="85" rx="12.75" ry="12.75" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 220px; height: 1px; padding-top: 341px; margin-left: 551px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Powered by Insights
+                                </b>
+                                <div>
+                                    - most of decisions are based on data/insights
+                                </div>
+                                <div>
+                                    - analytics, customer data, new tech insights, industry trends, etc.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="661" y="345" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Powered by Insights...
+                </text>
+            </switch>
+        </g>
+        <rect x="781.47" y="196" width="199.53" height="75" rx="11.25" ry="11.25" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 234px; margin-left: 782px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Transparency
+                                </b>
+                                <div>
+                                    - product strategy is clearly communicated with respective reasoning data
+                                </div>
+                                <div>
+                                    - no feeling of "hidden agenda"
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="881" y="237" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Transparency...
+                </text>
+            </switch>
+        </g>
+        <rect x="781" y="278.5" width="200" height="102.5" rx="15.38" ry="15.38" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 330px; margin-left: 782px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Placing Bets
+                                </b>
+                                <div>
+                                    - everyone, especially product leaders, accept some solutions would not solve the problem and that is the cost of experimenting to find the best solutions that do
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="881" y="333" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Placing Bets...
+                </text>
+            </switch>
+        </g>
+        <rect x="228" y="761" width="246" height="110" rx="22" ry="22" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 244px; height: 1px; padding-top: 816px; margin-left: 229px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Principles over Process
+                                </b>
+                                <div>
+                                    - team knows their core principles (values) well and shapes processes around them
+                                </div>
+                                <div>
+                                    - team has high flexibility to change most of processes and drives continuous process improvement
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="351" y="820" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Principles over Process...
+                </text>
+            </switch>
+        </g>
+        <rect x="228" y="878.5" width="246" height="42.5" rx="8.5" ry="8.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 244px; height: 1px; padding-top: 900px; margin-left: 229px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    Well-being and Satisfaction
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="351" y="903" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Well-being and Satisfaction
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
