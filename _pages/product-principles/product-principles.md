@@ -1,0 +1,1 @@
+![Product principles](/_pages/product-principles/product-principles.drawio.png)
