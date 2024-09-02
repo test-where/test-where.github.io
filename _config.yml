@@ -12,6 +12,9 @@ description: >
 
 remote_theme: jekyll/minima
 
+plugins:
+  - jekyll-feed
+
 header_pages:
   - about.md
 
