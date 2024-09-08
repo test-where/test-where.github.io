@@ -12,7 +12,7 @@ categories:
     
     - "If I can have a conversation with the PM <...> or anyone and correctly define the difference between a vanity metric and an actionable metric - that is a great sign."
     
-    - "If they come to me and say hey we have this **hypothesis**, and this is what we did to validate it, and this is what we think is the result, can you look over and make sure we are OK?" - remember, I wrote about assumptions, hypotheses, and experimentation some time ago? Here is that article again: [Effort, Impact and Experimentation in Testing](https://testwhere.blog/effort-impact-and-experimentation-in-testing/).
+    - "If they come to me and say hey we have this **hypothesis**, and this is what we did to validate it, and this is what we think is the result, can you look over and make sure we are OK?" - remember, I wrote about assumptions, hypotheses, and experimentation some time ago? Here is that article again: [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/).
     
     - "Seeing visibility of a more formal A/B testing or hypothesis testing type of structure is another great sign."
     

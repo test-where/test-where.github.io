@@ -8,13 +8,13 @@ categories:
 - Research is often fascinating. Therefore, I was excited to find yet another insightful research paper - Microsoft's [The New Future of Work report](https://www.microsoft.com/en-us/research/project/the-new-future-of-work/overview/). It reviews the year 2023 focusing mostly on AI and LLM advancements. It concludes some interesting points (and provides more resources and references for a deeper study):
     - "Analyzing and integrating may become more important skills than searching and creating." Not gonna say it is surprising as I hear more and more speculations that testing (as a general term for any kind of analysis to support decision-making) is not going away because of gen-AI advancements (while coding as we know it might be in danger).
     
-    - "Appropriate reliance on AI is a key challenge in human-AI interaction." Very similar conclusion to the one from [Testing and gen-AI, LLMs – why will testing not go away?](https://testwhere.blog/testing-and-gen-ai-llms-why-will-testing-not-go-away/) article. It looks like I am not the only one with trust issues.
+    - "Appropriate reliance on AI is a key challenge in human-AI interaction." Very similar conclusion to the one from [Testing and gen-AI, LLMs – why will testing not go away?](/testing-and-gen-ai-llms-why-will-testing-not-go-away/) article. It looks like I am not the only one with trust issues.
     
     - "Instant AI feedback may improve real-time interactions in meetings." It would be interesting to see how AI may assist in meetings, for example, to achieve more equal participation.
     
     - "Critical thinking: LLM-based tools can be useful provocateurs." The risk I see here is to fall into the traps of availability/confirmation biases. To mitigate it, do not start with LLM output - come up with your ideas first, and validate them later by asking LLM to deal with a similar challenge. Only then compare the results and see if you have not missed something the LLM pointed out.
     
-    - "Call to action: Lead like a scientist." Embracing the experimentation, and research. More and more fields (product management, developer experience, developer productivity, DORA research, A/B testing, UX/design, etc.) are talking the same already. Small and frequent experiments are critical to identify, quantify, and understand the value and impact behind our efforts (you can read more in detail here - [Effort, Impact and Experimentation in Testing](https://testwhere.blog/effort-impact-and-experimentation-in-testing/)).
+    - "Call to action: Lead like a scientist." Embracing the experimentation, and research. More and more fields (product management, developer experience, developer productivity, DORA research, A/B testing, UX/design, etc.) are talking the same already. Small and frequent experiments are critical to identify, quantify, and understand the value and impact behind our efforts (you can read more in detail here - [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/)).
 
 <figure>
 

@@ -1,6 +1,6 @@
 ---
-title: "Advent Calendar of White-box Testing"
-date: "2023-11-30"
+title: Advent Calendar of White-box Testing
+permalink: /advent-calendar-of-white-box-testing/
 ---
 
 <figure>

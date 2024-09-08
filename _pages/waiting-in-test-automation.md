@@ -1,6 +1,6 @@
 ---
-title: "Waiting in Test Automation"
-date: "2023-11-23"
+title: Waiting in Test Automation
+permalink: /waiting-in-test-automation/
 ---
 
 Waiting is a very common practice in test automation and automation in general as a lot of times automation is faster than its object (i.e. web application), therefore, automation needs to know how to wait for the object to be ready for some next step.

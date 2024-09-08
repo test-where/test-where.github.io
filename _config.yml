@@ -19,6 +19,7 @@ include:
   - _pages
 
 header_pages:
+  - _pages/recommended-sources.md
   - _pages/about.md
 
 minima:

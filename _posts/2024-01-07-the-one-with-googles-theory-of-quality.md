@@ -5,7 +5,7 @@ categories:
   - "posts"
 ---
 
-- This week, [Abi Noda shared a great Google productivity research paper](https://www.linkedin.com/pulse/software-quality-abi-noda-hzbtc/) that aims to summarize the "theory of quality". Similarly to effort/output/outcome/impact model (which I explored further some time ago in [Effort, Impact and Experimentation in Testing](https://testwhere.blog/effort-impact-and-experimentation-in-testing/) article), Google's research narrows "theory of quality" into a very similar 4 parts:
+- This week, [Abi Noda shared a great Google productivity research paper](https://www.linkedin.com/pulse/software-quality-abi-noda-hzbtc/) that aims to summarize the "theory of quality". Similarly to effort/output/outcome/impact model (which I explored further some time ago in [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/) article), Google's research narrows "theory of quality" into a very similar 4 parts:
     - Process quality
     
     - Code quality

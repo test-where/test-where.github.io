@@ -1,6 +1,6 @@
 ---
-title: "Testing and gen-AI, LLMs - why will testing not go away?"
-date: "2023-12-09"
+title: Testing and gen-AI, LLMs - why will testing not go away?
+permalink: /testing-and-gen-ai-llms-why-will-testing-not-go-away/
 ---
 
 This article aims to explain how the essence of testing is to build trust and confidence, how humans achieve that, and why gen-AI models are unable to create that trust in them. Finally, it aims not to discredit gen-AI in testing, but seeks to understand it better and to provide clarity about their constraints and advantages.
