@@ -15,17 +15,11 @@ categories:
       
     Let's end this point listing all the 7 tensions as this list can help for thinking about one's leadership style in [a search for the right balance](https://hbr.org/2022/01/finding-the-right-balance-and-flexibility-in-your-leadership-style):
     - Tension 1: The Expert vs. the Learner
-    
     - Tension 2: The Constant vs. the Adaptor
-    
     - Tension 3: The Tactician vs. the Visionary
-    
     - Tension 4: The Teller vs. the Listener
-    
     - Tension 5: The Power Holder vs. the Power Sharer
-    
     - Tension 6: The Intuitionist vs. the Analyst
-    
     - Tension 7: The Perfectionist vs. the Accelerator
 
 - Continuing with another leadership article - somehow the next article and its problem resonated highly with me. Probably, that is because recently I saw a lot of management roles around me (including my role) being questioned if they are necessary at all. And, it gets a little different color when such questions come from the bottom compared to when it comes from the top. So, without any further ado, I introduce you - [“My boss says we don’t need any engineering managers. Is he right?”](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/) by Charity Majors. And extra points for the amazing domain name!
@@ -35,5 +29,4 @@ categories:
 - Tired of Selenium vs Playwright vs Cypress vs (something else) blog posts? It looks like Selenium creators have gotten tired as well as [they published their own blog post](https://www.selenium.dev/blog/2024/selenium-vs-blog-posts/) debunking some of the popular statements and advertising some of the upcoming features. And talking from my personal experience, Selenium was never the problem :)
 
 - Let's end this with a funny bug. Bugs are funny when you can watch them as a spectator and eat some popcorn. Believe me, they are not that funny when you are working as a tester for that product or use that product for an important task. So, it seems there is [a bug in Amazon Print-on-demand service](https://www.linkedin.com/posts/gergelyorosz_most-of-my-books-are-sold-via-amazons-pod-activity-7150059555270389760-fbpj/) that from time to time prints 20 pages of some random book inside the book you ordered. Can you imagine the possibilities of how that can go wrong? Actually, that sparked an idea...
-
 ![](https://testwhere.wordpress.com/wp-content/uploads/2024/01/image-4.png?w=785)

@@ -11,7 +11,6 @@ categories:
       
     To sum up:
     - Easier and faster are not always the right thing.
-    
     - Tests are not the goal - the main goal is to build confidence in the way the team works (and the product itself).
 
 - **"E2E tests are cherry on the top, so write them at the end."** This one contradicts modern software development practices and reminds me of Waterfall (or Linkin Park?). Treating requirements as hypotheses/assumptions and seeking end-user/client validation a lot of times it is important to deliver feature MVP/prototype as soon as possible (to get feedback and adjust, re-iterate). For the sake of collecting early feedback one can consider not caring about the overall look and feel, but at least have it functional and accurate (it depends, but the main idea is to focus on some quality attributes first postponing some other quality attributes to be polished later if hypothesis succeeds and feedback is positive). Most of the time it means that E2E test should be there already while we are experimenting with that feature, collecting data or feedback as typically life does not stop because of such "experiments" and other team members will be still adding their progress in parallel there.  

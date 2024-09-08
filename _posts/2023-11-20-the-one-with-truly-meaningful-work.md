@@ -7,18 +7,14 @@ categories:
 
 - Late this week [Bryan Finster](https://www.linkedin.com/in/bryan-finster/) dropped a powerful article ["5-Minute DevOps: The Three Wrongs"](https://bdfinst.medium.com/5-minute-devops-the-three-wrongs-6c660f1287e7). I like how Bryan accurately explains concepts around value hypothesis and experimentation (similar concepts that I tried to deconstruct in [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/) - and it is very likely that I will borrow some quotes) and common pitfalls:
     - "One of the biggest hurdles to delivering something valuable is assuming the idea is valuable. Instead, we should treat the idea as a value hypothesis."
-    
     - "The idea of “we’ll deliver this and be done” is simply a fantasy, and any plan based on that assumption fails before it begins." - No more words needed. A. Must. Read.
 
 - Continuing with the topic of experimentation - I like the saying "Good tester thinks like a scientist." [Danyel Fisher](https://www.linkedin.com/in/danyelfisher/) spotted exactly that in his article ["Measure, Design, Try: On Building New Things"](https://danyelfisher.info/blog/2023/10/5/measure-design-try-on-building-new-things) explaining and illustrating how similar cycles are applied in both Academic and User Researches.
 
 - Earlier this week Simon Sinek's The Optimism Company posted an interesting article focused on [Truly Meaningful Work](https://www.linkedin.com/pulse/does-your-company-truly-value-meaning-work-simon-sinek-ywhqc/). It does not only write about purpose, "purpose-washing", but also suggest 5 green flags (and I probably see that as a nice tool to challenge your own "North Star"):
     - "Your company actually puts resources into supporting the purpose." - Remember [The one with Chaos and its 3 Antidotes](/posts/2023/11/12/the-one-with-chaos-and-its-3-antidotes.html) (clarity, consistency, support)? So, this is **support**.
-    
     - "The purpose is actively communicated to everyone in the organization, not just a select few." - This is **clarity**.
-    
     - "The company provides data that demonstrates tangible impact related to the purpose." - Data, impact, purpose and a proper emphasis. Data creates clarity, demonstrates facts, justify efforts.
-    
     - "The purpose isn't solely focused on generating revenue." - Based on my personal experience in consultancy business, this one sounds like the most difficult one because of many reasons.  
         For example... When one is working in an engagement as a consultant providing some service, and gets paid based on spent hours (effort), and for some time they feel stuck and not providing real value (impact), but their client does not spot that as the client is "hypnotized" with the effort - should the consultant voice that "feeling of no impact/progress" to their client and put the engagement at risk? What will the client do with such information? Will the client thank the consultant and say "goodbye"? Or will the client actually recognize the honesty and fairness, will they help to find more value opportunities, and navigate the consultant's efforts towards impact (and better end-product)? Should the consultant care not only about their revenue, but also about the client's revenue, and client's product's purpose (to be focused not solely on revenue)? Those are good questions. Ethics, sustainability, trust, and some other friends enter the room...
     

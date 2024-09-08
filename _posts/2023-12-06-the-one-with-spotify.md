@@ -13,7 +13,6 @@ categories:
 
 - Another interesting piece from Spotify I found some time ago when I was exploring ways how to perform quality assessments in the project space - ["Squad Health Check model"](https://engineering.atspotify.com/2014/09/squad-health-check-model/). (You can easily see the date it was published - so you can see Spotify was experimenting with gamification long before I started my career as a tester...) Some time later I found better and more tailored models for that same purpose, which I actively refer to this day:
     - ["Quality Culture Transition Guide"](https://docs.google.com/spreadsheets/d/1kan20hYsdbvk7HW4si-X6Ve1fLtCeTI2H_PjiniKsxY/edit#gid=1639699416) from [Modern Testing](https://github.com/moderntesting/resources).
-    
     - [Quality Practices Assessment Model (QPAM)](https://leanpub.com/qualityassessmentpracticesmodelqpam) from [Janet Gregory](https://www.linkedin.com/in/janetgregory/) and [Selena Delesie](https://www.linkedin.com/in/selenadelesie/) (which was actually derived from the same "Quality Culture Transition Guide", and described in more detail).
 
 - And at the same time one idealizes their software development practices, work culture, speed, and other fancy things, [they announced layoffs of 17% of their staff](https://edition.cnn.com/2023/12/04/tech/spotify-layoffs-third-round) (~1500 out of 9000+ people). Many people on social media are blaming Spotify for layoffs with a 5-month severance package, but I am not sure what is worse - layoffs here and now or quiet firing. Oh, Bittersweet Symphony...

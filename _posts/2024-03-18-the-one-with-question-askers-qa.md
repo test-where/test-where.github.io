@@ -31,11 +31,8 @@ categories:
 
 - Another way to ask some good questions, collect some info, and come up with insights is surveys. One of my favorite surveys in testing published its [PractiTest State of Testing report for 2024](https://www.practitest.com/assets/pdf/stot-2024.pdf) (and this year I am a bit disappointed with it). Here are some of my subjective highlights:
     - JIRA is the most popular tool? Whaat? :D
-    
     - 60% of test specialists are not (yet?) using AI for testing.
-    
     - QA still focuses on process (testing), not on product (value to business). See QA metrics question which suggests only process focused metrics (and eNPS :D)
-    
     - In the context of Modern Testing, DevOps, Empowered Product teams, and other modern movements/practices, asking "Does testing have a say regarding release readiness?", commenting 81% of YES as a good thing, and encouraging testing specialists to be bottlenecks in the process... sounds wrong.
 
 - Another interesting experience from this week - I was invited to have a demo of [Perfana](https://perfana.io/) directly from its creators [Dylan van Iersel](https://www.linkedin.com/in/dviersel/) and [Daniel Moll](https://www.linkedin.com/in/dmoll1974/). To be honest, it is stickers to blame! Shiny Perfana stickers caught my eye on LinkedIn, I posted a comment cheering to get some, one message led to another, and I found myself watching the demo. Talking from my experience with performance testing in a CI/CD environment, Perfana would have saved me some precious time replacing a lot of hours in MS Excel spreadsheets that I used to track performance metrics for regressions. And, if you would like to hear more in-depth, [Jakub Dering provides a detailed Perfana review](https://www.youtube.com/watch?v=EVxjcge0ULQ&ab_channel=Perfluencer) capturing a lot of thoughtful nuances of the tool.

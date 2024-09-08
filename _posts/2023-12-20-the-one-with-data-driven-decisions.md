@@ -9,13 +9,9 @@ categories:
 
 - Last week I had some spare time to catch up on the AB testing podcast and episode 189 (more specifically - 8:00-12:15) provided some nice insights into how those principles look like in real-life projects - and what are the potential good signs to look for:
     - "If the PM in charge of the feature <...> has produced their own Power BI that is tracking the performance of the feature, and it is not vanity metrics." - and if not, there is something you can suggest. There are some frameworks (like [TARS](https://uxdesign.cc/tars-a-product-metric-game-changer-c523f260306a) or [HEART](https://uxdesign.cc/googles-heart-framework-choosing-the-right-metrics-for-your-product-112bd7300d55)) that give some ideas of how such telemetry can be implemented in feature level.
-    
     - "If I can have a conversation with the PM <...> or anyone and correctly define the difference between a vanity metric and an actionable metric - that is a great sign."
-    
     - "If they come to me and say hey we have this **hypothesis**, and this is what we did to validate it, and this is what we think is the result, can you look over and make sure we are OK?" - remember, I wrote about assumptions, hypotheses, and experimentation some time ago? Here is that article again: [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/).
-    
     - "Seeing visibility of a more formal A/B testing or hypothesis testing type of structure is another great sign."
-    
     - ...
 
 - Switching from features (business) to system (technical) level - have you ever heard of [The Four Golden Signals](https://sre.google/sre-book/monitoring-distributed-systems/) (of user-facing systems)? They are latency, traffic, errors, and saturation. "If you can only measure four metrics of your user-facing system, focus on these four." But it is not as simple as it sounds - it is only the beginning of a complex Site Reliability Engineering (SRE) topic. Wanna explore SRE further? Google provides several fine [SRE books for online reading](https://sre.google/books/).
