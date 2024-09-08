@@ -13,7 +13,7 @@ categories:
 - Continuing with the topic of experimentation - I like the saying "Good tester thinks like a scientist." [Danyel Fisher](https://www.linkedin.com/in/danyelfisher/) spotted exactly that in his article ["Measure, Design, Try: On Building New Things"](https://danyelfisher.info/blog/2023/10/5/measure-design-try-on-building-new-things) explaining and illustrating how similar cycles are applied in both Academic and User Researches.
 
 - Earlier this week Simon Sinek's The Optimism Company posted an interesting article focused on [Truly Meaningful Work](https://www.linkedin.com/pulse/does-your-company-truly-value-meaning-work-simon-sinek-ywhqc/). It does not only write about purpose, "purpose-washing", but also suggest 5 green flags (and I probably see that as a nice tool to challenge your own "North Star"):
-    - "Your company actually puts resources into supporting the purpose." - Remember [The one with Chaos and its 3 Antidotes](/_posts/2023/11/12/the-one-with-chaos-and-its-3-antidotes.html) (clarity, consistency, support)? So, this is **support**.
+    - "Your company actually puts resources into supporting the purpose." - Remember [The one with Chaos and its 3 Antidotes](/posts/2023/11/12/the-one-with-chaos-and-its-3-antidotes.html) (clarity, consistency, support)? So, this is **support**.
     
     - "The purpose is actively communicated to everyone in the organization, not just a select few." - This is **clarity**.
     
