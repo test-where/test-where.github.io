@@ -9,7 +9,7 @@ categories:
 
 - [Michael Kutz](https://www.linkedin.com/in/micha-kutz/) designed and shared a real - I mean - [physical Testing Pyramid](https://www.linkedin.com/posts/micha-kutz_i-optimized-my-test-automation-pyramid-cutout-activity-7124683737476276226-FTiZ?utm_source=share&utm_medium=member_desktop). If you have ever seen my working desk, you can easily see I like such "toys". For example, Rubik's cube that I have there is a great conversation starter as there is a story behind it of how I used it as an interview problem (and no, I have not asked to solve it during interview, that would be odd). Similarly, I see Michael Kutz's Testing Pyramid could be a great conversation starter - a toy and a model that could be kindly given away as a gift (or reminder) after the conversation about test automation strategy.
 
-- Talking about pyramids, that real Testing Pyramid inspired me to compose a separate page with my favorite resources around the topic. Here it is - [Testing Pyramid](/_pages/testing-pyramid/).
+- Talking about pyramids, that real Testing Pyramid inspired me to compose a separate page with my favorite resources around the topic. Here it is - [Testing Pyramid](/testing-pyramid/).
 
 - Something to try-out - remember DALL-E image composer engine? This August DALL-E 3 was released, and this October it reached wider audience via [Bing Image Creator](https://www.bing.com/create), so you can try it yourself there.
 

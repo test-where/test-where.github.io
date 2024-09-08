@@ -1,6 +1,6 @@
 ---
-title: "Business Success metrics"
-date: "2023-11-20"
+title: Business Success metrics
+permalink: /business-success-metrics/
 ---
 
 Five Green Flags:

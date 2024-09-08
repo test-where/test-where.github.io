@@ -1,6 +1,6 @@
 ---
-title: "Effort, Impact and Experimentation in Testing"
-date: "2023-11-04"
+title: Effort, Impact and Experimentation in Testing
+permalink: /effort-impact-and-experimentation-in-testing/
 ---
 
 This article aims to explain how effort/output/outcome/impact model and experimentation can be used together to build a better understanding about value and impact in software engineering.
@@ -44,7 +44,7 @@ Not sure if that is really an adaptation as very similar principles apply:
 
 Therefore, when considering various typical quality metrics it is worth understanding whether such metrics will be measuring more of our efforts and outputs, or outcomes and impact.
 
-<table><tbody><tr><td><strong>Effort</strong><br>(tasks and time spent on them, process)</td><td><strong>Output</strong><br>(software code and related deliverables)</td><td><strong>Outcome</strong><br>(product in use/live)</td><td><strong>Impact</strong><br>(impact on business and users)</td></tr><tr><td>Story points?<br><br>"Vanity metrics":<br><br>- number of test cases (or test coverage)<br><br>- number of defects reported (defect removal efficiency, etc.)</td><td>Static code analysis (code smells, complexity metrics, etc.)<br><br>Technical debt<br><br>Code coverage? Requirements coverage?<br><br>Documentation and other deliverables' quality</td><td>SLA/SLO agreements (SRE)<br><br>Non-functional requirements<br><br>Lead Time for Changes (DORA)<br><br>Deployment Frequency (DORA)<br><br>Time to Restore Service (DORA)</td><td><a href="https://testwhere.blog/business-success-metrics/">Business Success metrics</a> (Product Charter, North Star?)<br><br>End-users satisfaction (<a href="https://uxdesign.cc/tars-a-product-metric-game-changer-c523f260306a">TARS</a>, <a href="https://uxdesign.cc/googles-heart-framework-choosing-the-right-metrics-for-your-product-112bd7300d55">HEART</a>, user reviews, etc.)<br><br>Success Failure Rate (DORA)</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Effort</strong><br>(tasks and time spent on them, process)</td><td><strong>Output</strong><br>(software code and related deliverables)</td><td><strong>Outcome</strong><br>(product in use/live)</td><td><strong>Impact</strong><br>(impact on business and users)</td></tr><tr><td>Story points?<br><br>"Vanity metrics":<br><br>- number of test cases (or test coverage)<br><br>- number of defects reported (defect removal efficiency, etc.)</td><td>Static code analysis (code smells, complexity metrics, etc.)<br><br>Technical debt<br><br>Code coverage? Requirements coverage?<br><br>Documentation and other deliverables' quality</td><td>SLA/SLO agreements (SRE)<br><br>Non-functional requirements<br><br>Lead Time for Changes (DORA)<br><br>Deployment Frequency (DORA)<br><br>Time to Restore Service (DORA)</td><td><a href="/business-success-metrics/">Business Success metrics</a> (Product Charter, North Star?)<br><br>End-users satisfaction (<a href="https://uxdesign.cc/tars-a-product-metric-game-changer-c523f260306a">TARS</a>, <a href="https://uxdesign.cc/googles-heart-framework-choosing-the-right-metrics-for-your-product-112bd7300d55">HEART</a>, user reviews, etc.)<br><br>Success Failure Rate (DORA)</td></tr></tbody></table>
 
 When a team designs strategies for a project, it should start from the right-side (impact) and make decisions to the left based on what is already known in the right.
 

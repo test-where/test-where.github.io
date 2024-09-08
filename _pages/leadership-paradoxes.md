@@ -1,6 +1,6 @@
 ---
-title: "Leadership paradoxes"
-date: "2023-11-10"
+title: Leadership paradoxes
+permalink: /leadership-paradoxes/
 ---
 
 <figure>

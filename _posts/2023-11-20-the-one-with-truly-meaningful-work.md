@@ -5,7 +5,7 @@ categories:
   - "posts"
 ---
 
-- Late this week [Bryan Finster](https://www.linkedin.com/in/bryan-finster/) dropped a powerful article ["5-Minute DevOps: The Three Wrongs"](https://bdfinst.medium.com/5-minute-devops-the-three-wrongs-6c660f1287e7). I like how Bryan accurately explains concepts around value hypothesis and experimentation (similar concepts that I tried to deconstruct in [Effort, Impact and Experimentation in Testing](https://testwhere.blog/effort-impact-and-experimentation-in-testing/) - and it is very likely that I will borrow some quotes) and common pitfalls:
+- Late this week [Bryan Finster](https://www.linkedin.com/in/bryan-finster/) dropped a powerful article ["5-Minute DevOps: The Three Wrongs"](https://bdfinst.medium.com/5-minute-devops-the-three-wrongs-6c660f1287e7). I like how Bryan accurately explains concepts around value hypothesis and experimentation (similar concepts that I tried to deconstruct in [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/) - and it is very likely that I will borrow some quotes) and common pitfalls:
     - "One of the biggest hurdles to delivering something valuable is assuming the idea is valuable. Instead, we should treat the idea as a value hypothesis."
     
     - "The idea of “we’ll deliver this and be done” is simply a fantasy, and any plan based on that assumption fails before it begins." - No more words needed. A. Must. Read.
@@ -13,7 +13,7 @@ categories:
 - Continuing with the topic of experimentation - I like the saying "Good tester thinks like a scientist." [Danyel Fisher](https://www.linkedin.com/in/danyelfisher/) spotted exactly that in his article ["Measure, Design, Try: On Building New Things"](https://danyelfisher.info/blog/2023/10/5/measure-design-try-on-building-new-things) explaining and illustrating how similar cycles are applied in both Academic and User Researches.
 
 - Earlier this week Simon Sinek's The Optimism Company posted an interesting article focused on [Truly Meaningful Work](https://www.linkedin.com/pulse/does-your-company-truly-value-meaning-work-simon-sinek-ywhqc/). It does not only write about purpose, "purpose-washing", but also suggest 5 green flags (and I probably see that as a nice tool to challenge your own "North Star"):
-    - "Your company actually puts resources into supporting the purpose." - Remember [The one with Chaos and its 3 Antidotes](https://testwhere.blog/2023/11/12/2nd-week-of-november-the-one-with-chaos-and-its-3-antidotes/) (clarity, consistency, support)? So, this is **support**.
+    - "Your company actually puts resources into supporting the purpose." - Remember [The one with Chaos and its 3 Antidotes](/posts/2023/11/12/the-one-with-chaos-and-its-3-antidotes/) (clarity, consistency, support)? So, this is **support**.
     
     - "The purpose is actively communicated to everyone in the organization, not just a select few." - This is **clarity**.
     
