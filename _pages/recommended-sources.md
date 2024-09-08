@@ -85,7 +85,7 @@ Other (not-so-good, but) notable mentions:
     - [GetDX.com](https://getdx.com/). Blog repeats the newsletter a little, yet provides more articles from other authors + a nice podcast.
 - ["The Pragmatic Engineer" substack](https://newsletter.pragmaticengineer.com/)
     - ["Measuring Developer Productivity: Real-World Examples"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-bae)    
-    - ["Measuring developer productivity? A response to McKinsey"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity). (Actually, I wrote [Effort, Impact and Experimentation in Testing](https://testwhere.blog/effort-impact-and-experimentation-in-testing/) based mostly on this article.)
+    - ["Measuring developer productivity? A response to McKinsey"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity). (Actually, I wrote [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/) based mostly on this article.)
 
 ### Product
 
