@@ -5,7 +5,7 @@ permalink: /leadership-paradoxes/
 
 <figure>
 
-![](https://testwhere.wordpress.com/wp-content/uploads/2023/11/image-7.png?w=1024)
+![](https://testwhere.wordpress.com/wp-content/uploads/2023/11/image-7.png)
 
 <figcaption>
 
