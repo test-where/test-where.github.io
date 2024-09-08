@@ -58,4 +58,4 @@ jobs:
       - name: Check live site for broken links
         run: |
           npm install -g broken-link-checker
-          blc http://your-github-username.github.io/your-repo-name --recursive
+          blc https://test-where.github.io/ --recursive
