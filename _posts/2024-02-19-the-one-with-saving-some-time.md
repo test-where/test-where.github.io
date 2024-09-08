@@ -1,0 +1,18 @@
+---
+title: "The one with Saving Some Time"
+date: "2024-02-19"
+categories: 
+  - "posts"
+---
+
+- Last week I read about [written narratives](https://www.svpg.com/coaching-tools-the-narrative/). Marty Cagan advertises this technique heavily in his book "Empowered". Considering the bubble I live/work in, I know no one using written narratives in real-world meetings, and I cannot imagine. It should be painful, it should require a lot of courage and discipline, and probably, you would need to multiply it by 5 if you are not a native speaker. Alan Page gives alternative suggestion in [his blog post](https://angryweasel.substack.com/p/far-from-me) (and this one is far easier applicable): "Encourage async feedback on document reviews. Bezos famously loved taking time at the beginning of a meeting for people to read a doc before discussing. I fucking hate that idea. Instead, share docs ahead of time, encourage feedback, and then - if needed, have a meeting where the summarized feedback is presented and next steps are agreed upon. Let people work at times that are convenient to them." (As well, I really liked the "Question of the day" idea from the same blog post.)  
+      
+    Also, as Alan expressed how he liked having guests in his podcast recently, fingers crossed he invites Marty Cagan sometime soon to discuss modern practices in product management and leadership. (A similar spell worked pretty well with Jason Arban and Bryan Finster, so let's see how it goes now.)
+
+- Last week a colleague at work scheduled a [50-minute meeting](https://hbr.org/2009/08/the-50minute-meeting) instead of a typical 1-hour and reminded me that powerful time saving trick. It can be 45, 50 or 55 minutes - it does not matter that much as it matters for those with back-to-back meetings (or full day stacked with meetings alone). Give them a break.
+
+- Talking about saving some time - performance testing is something that aims to save some. And just recently I noticed that my beloved [RAIL model](https://web.dev/articles/rail) is no longer a go-to standard for thinking about user-centric performance. "[Core Web Vitals](https://web.dev/articles/vitals) is a newer initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web. It is the recommended approach for defining performance goals over RAIL, and has [different thresholds](https://web.dev/articles/defining-core-web-vitals-thresholds) than those detailed here." Something to have in mind.
+
+- Bas Dijkstra posted a comprehensive and illustrative article about [breaking down E2E tests](https://www.ontestautomation.com/breaking-down-your-e2e-tests-an-example/). With all respect to the author I have got involved in [a discussion](https://www.linkedin.com/posts/basdijkstra_breaking-down-your-e2e-tests-an-example-activity-7161340904513880065-CLeK/) regarding testing at the E2E level as I strongly believe breaking the tests into smaller more atomic tests does not fully eliminate the need to test at the E2E level.
+
+- Let's end this issue with some news from the AI world. While [Air Canada lost a lawsuit for its chatbot making up refund policies](https://www.wired.com/story/air-canada-chatbot-refund-policy/) (and more amazingly "Air Canada argues it cannot be held liable for information provided by one of its agents, servants, or representatives—including a chatbot."), OpenAI releases yet another visually captivating transformer - [Sora](https://openai.com/sora). I really admire how OpenAI presents its work and research to give some insights not only about its hi-tech capabilities, but weaknesses as well. And despite the weaknesses, the progress is astonishing.
