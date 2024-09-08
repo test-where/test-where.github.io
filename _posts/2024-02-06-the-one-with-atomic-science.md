@@ -11,18 +11,8 @@ categories:
     - "Instant AI feedback may improve real-time interactions in meetings." It would be interesting to see how AI may assist in meetings, for example, to achieve more equal participation.
     - "Critical thinking: LLM-based tools can be useful provocateurs." The risk I see here is to fall into the traps of availability/confirmation biases. To mitigate it, do not start with LLM output - come up with your ideas first, and validate them later by asking LLM to deal with a similar challenge. Only then compare the results and see if you have not missed something the LLM pointed out.
     - "Call to action: Lead like a scientist." Embracing the experimentation, and research. More and more fields (product management, developer experience, developer productivity, DORA research, A/B testing, UX/design, etc.) are talking the same already. Small and frequent experiments are critical to identify, quantify, and understand the value and impact behind our efforts (you can read more in detail here - [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/)).
-
-<figure>
-
-![](https://testwhere.wordpress.com/wp-content/uploads/2024/02/image.png?w=1024)
-
-<figcaption>
-
-The last slide from [Microsoft New Future of Work Report](https://www.microsoft.com/en-us/research/uploads/prod/2023/12/NewFutureOfWork_Report2023.pdf)
-
-</figcaption>
-
-</figure>
+    
+    ![](https://testwhere.wordpress.com/wp-content/uploads/2024/02/image.png?w=1024)
 
 - Another interesting find was an [ATOM model for automation](https://www.automatetheplanet.com/atom-model-optimization/) from the [Automate The Planet newsletter](https://www.linkedin.com/newsletters/automate-the-planet-weekly-7054059427556929536/). The more models I study, the more I like the ones that provide a few relatively simple rules and/or visuals to stimulate thinking instead of a lot of low-level details involving calculations. I know the devil can be and is in the details, but the purpose of such models should be to simplify and help explain, and not to complicate things. Therefore, getting back to the ATOM model, it looks like lacking a high-level rationale and structure. When it starts from the low level, I start wondering whether we are not missing something from the big picture.
 
