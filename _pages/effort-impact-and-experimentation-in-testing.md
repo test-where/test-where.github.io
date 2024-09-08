@@ -12,17 +12,8 @@ The following material is based on effort/output/outcome/impact model from
 ["Measuring developer productivity? A response to McKinsey, Part 2"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-part-2),  
 therefore, please read those articles first as they clarify a lot of engineering productivity (and its measurement) related topics already.
 
-<figure>
-
 ![](https://testwhere.wordpress.com/wp-content/uploads/2023/11/image.png?w=1024)
-
-<figcaption>
-
 Effort/output/outcome/impact mental model from ["Measuring developer productivity? A response to McKinsey"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
-
-</figcaption>
-
-</figure>
 
 ### Adaptation for quality engineering and testing
 
@@ -58,31 +49,13 @@ Good testing treats information carefully - it tends to spot assumptions (and ri
 
 Good example of experimentation in practice is DORA research. First, they build huge models based on their assumptions (hypotheses) about individual, team and organizational aspects. Then, they design and run a survey to collect as much data as possible. Finally, they analyze the collected data and see whether they can confirm or bust their hypotheses (and compose an amazing "State of DevOps Report" for the community).
 
-<figure>
-
 ![](https://testwhere.wordpress.com/wp-content/uploads/2023/11/image-1.png?w=779)
-
-<figcaption>
-
 An example of how a diagram can be used to visualize hypotheses (from ["Accelerate State of DevOps Report 2023"](https://services.google.com/fh/files/misc/2023_final_report_sodr.pdf)), where "+" means positive effect
-
-</figcaption>
-
-</figure>
 
 Another model to think about experimentation is Measure, Design, Try:
 
-<figure>
-
 ![](https://testwhere.wordpress.com/wp-content/uploads/2023/11/image-8.png?w=593)
-
-<figcaption>
-
 Measure, Design, Try model is widely applied in Academic and User Researches (from ["Measure, Design, Try: On Building New Things"](https://danyelfisher.info/blog/2023/10/5/measure-design-try-on-building-new-things))
-
-</figcaption>
-
-</figure>
 
 Experimentation principles can and should be applied to software engineering as well. Similarly to an example model from DORA research, effort/output/outcome/impact model can be translated into a series of hypotheses (and experiments):
 
