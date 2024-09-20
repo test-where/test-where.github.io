@@ -6,7 +6,11 @@ permalink: /product-principles/
 
 ## Model
 
-![Product principles](/_pages/product-principles/product-principles.drawio.svg)
+![Product Principles](/_pages/product-principles/product-principles.drawio.svg)
+
+Or, Product Pyramid:
+
+![Product Pyramid](/_pages/product-principles/product-pyramid.drawio.svg)
 
 ## Product
 
