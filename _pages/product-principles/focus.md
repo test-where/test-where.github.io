@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Product Principles: Focus"
+title: "Focus"
 permalink: /product-principles/focus/
 ---
 

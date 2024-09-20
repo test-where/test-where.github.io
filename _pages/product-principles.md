@@ -20,7 +20,7 @@ Or, Product Pyramid:
 
 - The team is picking improvement ideas carefully and saying "NO" to a lot of things
 
-**Powered by Insights**
+[**Powered by Insights**](/product-principles/powered-by-insights/)
 
 - Most decisions are based on data/insights
 
