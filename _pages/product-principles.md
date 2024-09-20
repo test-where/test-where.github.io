@@ -10,7 +10,7 @@ permalink: /product-principles/
 
 ## Product
 
-**Focus**
+[**Focus**](/product-principles/focus/)
 
 - Product strategy (mission, vision, objectives, success metrics, North Star, etc.) is well-known to the whole team
 
