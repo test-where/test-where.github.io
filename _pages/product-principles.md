@@ -26,13 +26,13 @@ Or, Product Pyramid:
 
 - A variety of data sources are considered - analytics, customer data, new tech insights, industry trends, engineering team findings, etc.
 
-**Transparency**
+[**Transparency**](/product-principles/transparency/)
 
 - Product strategy is communicated clearly and with respective reasoning data
 
 - There is no feeling of a "hidden agenda"
 
-**“Placing Bets”**
+[**“Placing Bets”**](/product-principles/placing-bets/)
 
 - Everyone, especially product leaders, accepts some solutions would not solve the problem and that is the cost of experimenting to find the best solutions that do
 
@@ -40,7 +40,7 @@ Or, Product Pyramid:
 
 ## Code & System
 
-**Code Quality and Tech Debt**
+[**Code Quality and Tech Debt**](/product-principles/code-quality-and-tech-debt/)
 
 - Unit testing, code maintenance, tech debt tracking, continuous improvement
 
@@ -48,7 +48,7 @@ Or, Product Pyramid:
 
 - Frameworks, tools, third-party libraries, and other dependencies are up-to-date
 
-**Automation and Tools**
+[**Automation and Tools**](/product-principles/automation-and-tools/)
 
 - The team has proper automation and tools that allow it to move fast (high productivity) and not to break things (high quality)
 
@@ -56,7 +56,7 @@ Or, Product Pyramid:
 
 - Automating both functional tests and quality attribute (a.k.a. non-functional) tests
 
-**Deployment Infrastructure**
+[**Deployment Infrastructure**](/product-principles/deployment-infrastructure/)
 
 - The team is engaged in CI/CD and actively uses, adjusts (when needed), and maintains their CI/CD pipelines
 
@@ -68,7 +68,7 @@ Or, Product Pyramid:
 
 - Disaster recovery, restore mechanisms, quick reaction to production incidents
 
-**Monitoring and Observability**
+[**Monitoring and Observability**](/product-principles/monitoring-and-observability/)
 
 - The team can answer most operation-related questions (business outcomes related and technical) via observability
 
@@ -78,25 +78,25 @@ Or, Product Pyramid:
 
 ## Teamwork & Process
 
-**Outcomes over Output (Results over Effort)**
+[**Outcomes over Output (Results over Effort)**](/product-principles/outcomes-over-output/)
 
 - Understanding of value and quality is based on product strategy and business outcomes, not delivered volume of code/features (or story points)
 
 - Progress is measured by outcomes, not effort (as effort without progress is useless)
 
-**Sense of Ownership**
+[**Sense of Ownership**](/product-principles/sense-of-ownership/)
 
 - Team efforts translate to meaningful outcomes, so the team owns those outcomes and cares to deliver results
 
-- The whole team owns quality
+- The whole team cares for quality
 
-**Empowered with Problems to Solve**
+[**Empowered with Problems to Solve**](/product-principles/empowered-with-problems-to-solve/)
 
 - Incoming requests (tasks) are based on problems to solve, not solutions to implement
 
 - Business stakeholders and product leaders understand they do not know what is possible in engineering
 
-**Test Ideas Responsibly / Testing Breadth**
+[**Responsible Testing / Testing Breadth**](/product-principles/responsible-testing/)
 
 - The testing strategy is well-known to the whole team and aligns with the broader quality strategy and product strategy
 
@@ -108,7 +108,7 @@ Or, Product Pyramid:
 
 - The testing approach is responsible - existing value is protected while experimenting and moving fast
 
-**Collaboration**
+[**Collaboration**](/product-principles/collaboration/)
 
 - Not a democracy - decisions are owned by subject experts (only they know what is possible)
 
@@ -116,42 +116,29 @@ Or, Product Pyramid:
 
 - Most feedback loops (within the team, with stakeholders, with leadership) are short and fast
 
-- The whole team owns quality
+- The whole team cares for quality
 
-**Assess Product Risks**
+[**Rapid Validation and Experimentation (“Fail-Fast”)**](/product-principles/rapid-validation-and-experimentation/)
 
-- The following Product Risks are assessed in the discovery and delivery process:
-    - Value. Will it create value for the customers?
-    
-    - Usability. Will users figure out how to use it?
-    
-    - Viability. Can our business support it?
-    
-    - Feasibility. Can it be done (technology)?
-    
-    - Ethics. Should we do it? Are there any ethical considerations?
-
-**Embrace Rapid Experimentation (“Fail-Fast”)**
-
-- Ideas, prototypes, and solutions are tested early and quickly (Fail-Fast Mindset)
+- Ideas, prototypes, and solutions are tested early and quickly (both in Product Discovery and Product Delivery)
 
 - Then, minimizing waste - eliminating what's not working before over-investing
 
 ## Culture
 
-**Trust over Control**
+[**Trust over Control**](/product-principles/trust-over-control/)
 
 - Leaders are leading with context, not command-and-control
 
 - There is a safe and constructive environment to speak up, voice ideas, provide feedback, and suggest improvements
 
-**Principles over Process**
+[**Principles over Process**](/product-principles/principles-over-process/)
 
 - The team knows their core principles (values) well and shapes processes around them
 
 - The team has high flexibility to change most of the processes and drives continuous process improvement
 
-**Innovation over Predictability**
+[**Innovation over Predictability**](/product-principles/innovation-over-predictability/)
 
 - Product Mindset over Project Mindset
 
@@ -161,12 +148,12 @@ Or, Product Pyramid:
 
 - Time to money/value/outcomes over (feature) time to market
 
-**Learning over (Fear of) Failure**
+[**Learning over (Fear of) Failure**](/product-principles/learning-over-failure/)
 
 - The team emphasizes the value of learning (frequent and varied retrospectives, root cause analysis of customer issues, reading and listening to books, webinars, attending conferences and training)
 
 - Continuous improvement over blaming and finger-pointing. Even though some experiments/features will result in poor outcomes (a.k.a. failures), the team is encouraged to experiment and innovate.
 
-**Well-being and Satisfaction**
+[**Well-being and Satisfaction**](/product-principles/wellbeing-and-satisfaction/)
 
 - The team is feeling well, satisfied, and motivated
