@@ -7,7 +7,7 @@ The following article is based on testing jobs salary research by [Deimantas Liu
 
 However, as I like to play with data myself, Deimantas kindly shared anonymized data with me, so I could draw some charts myself. Or chart - a single one. I dropped all the data (leaving out two data points that were above 10k, and fixing/removing 2-3 anomalies) into a scatter plot, added some colors, some (polynomial) trend lines (so it got similar to atom energy levels diagram), and voila:
 
-![](https://testwhere.wordpress.com/wp-content/uploads/2024/04/image-3.png?w=995)
+![](/images/tester-salaries-lithuania-2024.png)
 
 **Interns**. Not a lot of data points, but a salary of ~1000 Eur/month, and 0-1 years of experience feels accurate (as being stuck in an internship for 2 years or with 2 years of experience would sound wrong). Overall, it feels like most companies do not like to play with internships and hire candidates for junior positions right away.
 

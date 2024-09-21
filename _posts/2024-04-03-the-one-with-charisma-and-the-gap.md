@@ -7,7 +7,7 @@ date: "2024-04-03"
 
     20 product model first principles shared by the best product companies as outlined in a book "Transformed" by Marty Cagan. Source: [Product Compass](https://www.productcompass.pm/p/product-model-first-principles-transformed-cagan):
     
-    ![](https://testwhere.wordpress.com/wp-content/uploads/2024/04/image.png?w=724)
+    ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4c40af-3339-4442-87ba-40416944c9f5_1414x2000.png)
 
 - To encourage more live interactions and face-to-face discussions in our company's testing community, this year we kicked off a new format of short meetings composed of 10-15-minute presentations or video recordings followed by a 15-20-minute discussion about the topic. So far, the first several sessions have been pretty successful, so I can proudly recommend trying it out in your community as well. Moreover, I have found a few quality talks while exploring videos recommended by our community. One of them - ["Let's face it: charisma matters" by John Antonakis](https://www.youtube.com/watch?v=SEDvD1IICfE&ab_channel=TEDxTalks). In this talk, John compares good news presented with standard speech versus bad news presented with charisma speech and explores how both situations impact employees' performance (measured by outputs). And, the conclusion from that is - that charismatic speech can really help to minimize the potential damage of presenting bad news.
 

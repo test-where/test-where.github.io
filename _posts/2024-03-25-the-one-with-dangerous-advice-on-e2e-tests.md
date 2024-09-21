@@ -16,14 +16,11 @@ date: "2024-03-25"
     So, maybe that "cherry on the top" idea was not about adding it at the end, but still about proportions? Previously, I heard that "cherry on the top" metaphor assigned for visual tests as in theory (and practice!) they are even more expensive and brittle than E2E tests, so that visual tests cherry was added at the top of three-level unit/integration/E2E tests cake (for proportions).  
       
     Talking about cakes (as Bas and Lina did that too), I really like "The Testing Pavlova" concept (from ["Google, You Might Be Wrong Now"](https://www.thehomeofwebautomation.com/google-might-be-wrong/)), especially, how it explains unit/integration/E2E distribution dynamics over time - as that makes perfect sense - suggesting efforts across unit/integration/E2E go hand in hand and distribution gets to _pyramid-ish_ shape only when code matures:
-
-![](https://testwhere.wordpress.com/wp-content/uploads/2023/10/image-1.png?w=900)
+    ![](https://www.thehomeofwebautomation.com/images/google-might-be-wrong/screen_3.png)
 
 - **"E2E tests can be broken down into lower level tests."** It refers to [the original article](https://www.ontestautomation.com/breaking-down-your-e2e-tests-an-example/) and Bas clarifies explicitly in the article that it does not mean eliminating all the E2E tests completely. However, the missing piece there is why testing at various levels is needed. There will always be a risk that having and maintaining unit and integration/contract tests _only_ will not catch a change breaking the flow at E2E level if you do not have a respective test at E2E level.  
       
     The internet is full of memes referring to such situations and I assume you know better memes than me. Bringing some simple joy to life of testers, from time to time that happens even to the best of teams, and that is no surprise in an ecosystem of frequent changes and many contributors some change of individual unit or component slips and breaks a bigger picture. How confident do you feel about your unit and contract tests catching all such things in the environment you work in?
-
-![](https://testwhere.wordpress.com/wp-content/uploads/2024/03/no-integration-tests-meme-11.png?w=485)
 
 - **"Typical web apps have many interfaces and you can test most scenarios via API."** Yes, this is true. But the danger with such statements is that sometimes they can be seen as implying that testing scenarios at the API level are enough. However, end-users most likely will not be using API - our typical project context will deliver a JavaScript application that will be used by the end-users in their browsers. Therefore, we will have front-end and back-end applications as separate web services that will have their separate lives, separate CI/CD pipelines, and sometimes even separate teams developing them.  
       
