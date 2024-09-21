@@ -26,3 +26,5 @@ minima:
   social_links:
     - { platform: github,         user_url: "https://github.com/test-where/test-where.github.io" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/justas-lauzadis" }
+
+google_analytics: G-DQWGHDTX0W
