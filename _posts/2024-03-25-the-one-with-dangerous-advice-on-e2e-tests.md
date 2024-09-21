@@ -1,8 +1,6 @@
 ---
 title: "The one with Dangerous Advice on E2E tests"
 date: "2024-03-25"
-categories: 
-  - "posts"
 ---
 
 - E2E tests as a topic always create extraordinary gravity around it. So, it was no surprise that [the latest episode of the Quality Bits podcast](https://open.spotify.com/episode/2VMzBWh58sjuOzZXAJCv2g?si=mehoaR2XSOqbIK9NTAmIsw) with [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/) resulted in 2x reactions and comments compared to [the previous one with Alan Page and Modern Testing](https://open.spotify.com/episode/7iHLS0u82wrMmYymovqAOh?si=208ba74d388b468f) (even though I would recommend the latter more to the specialists I work with), and most of other episodes. Oh, whatever, E2E is magnetic, it is everywhere, so availability bias is the one to be blamed. Nonetheless, I would like to give you my two cents and extend this post inspired by some ideas shared during that episode (quotes are not exact, but more of the general ideas). Hence, let's break down some advice I found dangerous (as it can be easily misinterpreted) for a typical software engineering project as a context.

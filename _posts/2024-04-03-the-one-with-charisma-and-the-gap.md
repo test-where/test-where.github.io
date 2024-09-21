@@ -1,8 +1,6 @@
 ---
 title: "The one with Charisma and \"the Gap\""
 date: "2024-04-03"
-categories: 
-  - "posts"
 ---
 
 - Recently and currently I have been actively working on defining telemetry for observability of the things I do from a testing practice leadership standpoint (and questioning leadership practices, and alignment in general). In parallel (or more accurately - in the evenings), I am listening to the audiobook ["Transformed" by Marty Cagan](https://www.amazon.com/Transformed-Becoming-Product-Driven-Company-Silicon/dp/1119697336) which adds an extra layer of challenge on top of my thoughts. Therefore, the resources I am sharing in this post will be somehow related to my recent thoughts on leadership, (SMART?) goals (outcomes vs outputs), charisma, "the Gap" and so on.

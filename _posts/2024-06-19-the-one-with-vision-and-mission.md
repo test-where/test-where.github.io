@@ -1,8 +1,6 @@
 ---
 title: "The one with Vision and Mission"
 date: "2024-06-19"
-categories: 
-  - "posts"
 ---
 
 - Recently, I started to feel stronger and stronger _deja vus_ running into the topic of vision and mission in multiple situations. Firstly, while on vacation, I somehow decided to re-read Simon Sinek's "Start With Why?" which writes mostly about finding your vision (your dream, your "Why?"). Later (back to work), our team had an initial run of training based on [VMOSA framework](https://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vmosa/main) (as part of product-mindset training). Later on the same day, in an initial organizational team meeting for a new product (a testing conference!) we are building, some interesting questions (or edge-cases) occurred, and as we had a clear vision defined it helped us a lot in dealing with those questions right away. Finally, the topic of vision reappeared this week as I had a chance to participate in a Domain-Driven Design course (probably, the topic of DDD itself deserves a separate blogpost...) in a form of [Product Vision Board](https://www.romanpichler.com/blog/the-product-vision-board/) and [Product Strategy Canvas](https://melissaperri.com/blog/2016/07/14/what-is-good-product-strategy).

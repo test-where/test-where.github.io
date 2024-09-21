@@ -1,8 +1,6 @@
 ---
 title: "The one with a real Testing Pyramid"
 date: "2023-10-31"
-categories: 
-  - "posts"
 ---
 
 - This week I had a chance to attend [TestCon Europe](https://testcon.lt/) conference. Some talks were great, while some others - not so great to say the least - and I promise more in-depth review some time later (as recordings have not yet arrived, and I want to watch at least some of them). However, similarly to DORA report, a lot of talks put a huge emphasis on user-centricity and focusing on business problem as there is a disconnect between business and software engineering a lot of times. On top of that, [Alan Page](https://www.linkedin.com/in/a-l-a-n/), the author behind Modern Testing principles, put some nice thoughts around the issue saying it's ["Nothing New"](https://angryweasel.substack.com/p/nothing-new-711).

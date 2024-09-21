@@ -1,8 +1,6 @@
 ---
 title: "The one with Atomic Science"
 date: "2024-02-06"
-categories: 
-  - "posts"
 ---
 
 - Research is often fascinating. Therefore, I was excited to find yet another insightful research paper - Microsoft's [The New Future of Work report](https://www.microsoft.com/en-us/research/project/the-new-future-of-work/overview/). It reviews the year 2023 focusing mostly on AI and LLM advancements. It concludes some interesting points (and provides more resources and references for a deeper study):

@@ -1,8 +1,6 @@
 ---
 title: "The one with Demos and Persuasion"
 date: "2024-02-26"
-categories: 
-  - "posts"
 ---
 
 - I wanted to write a post about demos since Sam Altman gave his famous [OpenAI DevDay Keynote speech](https://www.youtube.com/watch?v=U9mJuUkhUzk&ab_channel=OpenAI) which reminded me of a lot of great Apple product presentations by Steve Jobs. The one where Steve introduced the [iPod Nano in 2005](https://www.youtube.com/watch?v=ZFJ9d_PXlvo&ab_channel=janneshellebaut) or the [iPhone in 2007](https://www.youtube.com/watch?v=MnrJzXM7a6o&ab_channel=JohnSchroter). You may think that Steve Jobs was a great mind, a great leader, and a great speaker, and who am I to cancel that. But I would say that the great products that Apple built with Steve Jobs leading the company were the most important piece that gave him great credibility to speak about product design, leadership, and business development topics and make a huge Worldwide influence lasting to this day (as I am writing this). Good job demonstrated in keynote talks, product presentations, or made publicly available to masses in any other form grants credibility, and leads to influence.

@@ -1,8 +1,6 @@
 ---
 title: "The one with Advent Calendar and Waiting"
 date: "2023-11-30"
-categories: 
-  - "posts"
 ---
 
 - Some time ago I ran into a requirement to track E2E code coverage. At first, I made a false assumption that the author was referring to requirements coverage or some other coverage metric tied to all the documented test cases. But after discussing it with the author, he redirected me to [Istanbul](https://istanbul.js.org/) and some other code coverage tools that can be added as plugins to track UI testing code coverage or even manual testing code coverage (probably, I need to write a separate piece about that).  

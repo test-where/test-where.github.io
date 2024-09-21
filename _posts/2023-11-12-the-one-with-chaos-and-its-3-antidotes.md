@@ -1,8 +1,6 @@
 ---
 title: "The one with Chaos and its 3 Antidotes"
 date: "2023-11-12"
-categories: 
-  - "posts"
 ---
 
 - This week I participated in Product Mindset training - and I was happy to hear that Product Managers (who were leading the training) are actively exploring how to apply experimentation principles in their client engagements. One of the most important idea - treat future improvements (epics, features, user stories, etc.) as hypotheses, and design experiments to test their actual impact. You can find more pointers towards such ideas here - [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/).

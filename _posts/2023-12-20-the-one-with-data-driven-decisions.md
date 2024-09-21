@@ -1,8 +1,6 @@
 ---
 title: "The one with Data-driven decisions"
 date: "2023-12-20"
-categories: 
-  - "posts"
 ---
 
 - Principle #5 from [Modern Testing principles](https://www.moderntesting.org/) states "We believe that the customer is the only one capable to judge and evaluate the quality of our product." In my opinion, it is closely coupled with principle #6 - "We use data extensively to deeply understand customer usage and then close the gaps between product hypotheses and business impact." As this year I landed in a highly abstract role, I was actively exploring more data-driven decision-making techniques, metrics, developer productivity, developer experience, and other topics that would help me justify my or/and team's efforts and hypotheses, and reduce waste.

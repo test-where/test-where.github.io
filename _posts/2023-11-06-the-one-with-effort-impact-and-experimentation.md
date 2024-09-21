@@ -1,8 +1,6 @@
 ---
 title: "The one with Effort, Impact and Experimentation"
 date: "2023-11-06"
-categories: 
-  - "posts"
 ---
 
 - This week [Thierry de Pauw](https://www.linkedin.com/in/tdpauw/) shared a dialogue from a testing conference (most likely, [TestCon Europe](https://testcon.lt/)) saying that conferences are siloed and it is difficult to get into testing conferences with developer-focused topics. It seems that post touched a relevant problem as many interesting thoughts keep coming in the comments. In my opinion, when talking about boundaries for testing and quality, it is hard to draw a line - testing professionals need to build understanding across multiple topics including development processes and practices to enable and to advocate for better experimentation, better testing practices, shorter feedback cycles, and so on.

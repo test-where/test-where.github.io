@@ -1,8 +1,6 @@
 ---
 title: "The one with Spotify"
 date: "2023-12-06"
-categories: 
-  - "posts"
 ---
 
 - As the previous week I wrote about the [Advent Calendar of White-box Testing](/advent-calendar-of-white-box-testing/) and other Advent traditions, the beginning of December has countless virtual traditions that suggest reflecting on the year passing in one way or the other. One of such is [Spotify Wrapped](https://newsroom.spotify.com/2023-wrapped/) which sums up your listening habits into several colorful infographics. Such campaigns that appear at a very specific time require thorough load testing, so here's the article on [how Spotify load tested for 2022 Wrapped](https://engineering.atspotify.com/2023/03/load-testing-for-2022-wrapped/).

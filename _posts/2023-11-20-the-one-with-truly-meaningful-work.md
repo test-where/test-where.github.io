@@ -1,8 +1,6 @@
 ---
 title: "The one with Truly Meaningful Work"
 date: "2023-11-20"
-categories: 
-  - "posts"
 ---
 
 - Late this week [Bryan Finster](https://www.linkedin.com/in/bryan-finster/) dropped a powerful article ["5-Minute DevOps: The Three Wrongs"](https://bdfinst.medium.com/5-minute-devops-the-three-wrongs-6c660f1287e7). I like how Bryan accurately explains concepts around value hypothesis and experimentation (similar concepts that I tried to deconstruct in [Effort, Impact and Experimentation in Testing](/effort-impact-and-experimentation-in-testing/) - and it is very likely that I will borrow some quotes) and common pitfalls:

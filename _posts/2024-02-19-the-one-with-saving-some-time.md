@@ -1,8 +1,6 @@
 ---
 title: "The one with Saving Some Time"
 date: "2024-02-19"
-categories: 
-  - "posts"
 ---
 
 - Last week I read about [written narratives](https://www.svpg.com/coaching-tools-the-narrative/). Marty Cagan advertises this technique heavily in his book "Empowered". Considering the bubble I live/work in, I know no one using written narratives in real-world meetings, and I cannot imagine. It should be painful, it should require a lot of courage and discipline, and probably, you would need to multiply it by 5 if you are not a native speaker. Alan Page gives alternative suggestion in [his blog post](https://angryweasel.substack.com/p/far-from-me) (and this one is far easier applicable): "Encourage async feedback on document reviews. Bezos famously loved taking time at the beginning of a meeting for people to read a doc before discussing. I fucking hate that idea. Instead, share docs ahead of time, encourage feedback, and then - if needed, have a meeting where the summarized feedback is presented and next steps are agreed upon. Let people work at times that are convenient to them." (As well, I really liked the "Question of the day" idea from the same blog post.)  

@@ -1,8 +1,6 @@
 ---
 title: "The one with Domain-Driven Design (DDD)"
 date: "2024-07-02"
-categories: 
-  - "posts"
 ---
 
 - Recently I had a chance to participate in Domain-Driven Design (DDD) training hosted by [Mike Wojtyna](https://mikewojtyna.com/). The training was great and I felt fortunate to be there in the training room. Most of the training focused on [Event Storming](https://medium.com/@mike_7149/discovering-bounded-contexts-daad808f080d) technique (coming up with business domain events, ordering them into sequences, exploring the boundaries between processes and contexts, applying some heuristics, etc.) Even though I was the only test engineer in the room and the training felt tailored to "closer-to-the-code" roles (tech leads, software architects, etc.), I recognized a lot of testing there. Let me explain. As an observer from the world of "prevention" or "shift (detection) left", I noticed a lot of potential to prevent issues (like accidental discrepancies resulting in accidental tech-debt or functional accuracy bugs) early while business and engineering were exploring the context map together, "aligning". In terms of "shifting left", there is no _"lefter"_ than that to shift. Another thing I really liked is - Event Storming results as a visual deliverable - Context Map. Such visuals (probably, all visuals in general) bring clarity as that level of detail should be understandable to both business and engineering. And clarity is always prevention.  

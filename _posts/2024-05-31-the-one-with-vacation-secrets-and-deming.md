@@ -1,8 +1,6 @@
 ---
 title: "The one with Vacation, Secrets, and Deming"
 date: "2024-05-31"
-categories: 
-  - "posts"
 ---
 
 - It has been a while since my last post, but as always, there are reasons (or excuses?) behind that. 1) The weather got better and I prioritized doing some chores outside over spending evenings looking at a PC screen struggling to write some meaningful sentences. 2) I had a three-week-long vacation (and it has been a while since I had a vacation that long). And, that time, I was pretty busy working outside in the garden, visiting Turkey (long story short - first time flying by plane with kids, my phone stopped working on 2nd day there, therefore full attention went to the combination of sun, sand, and water, achieving high cocktail test coverage, and my Kindle, so I re-read "Start with Why" and probably found some answers there - best trip ever!), and helping our relatives to move house.  

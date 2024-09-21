@@ -1,8 +1,6 @@
 ---
 title: "The one with Marty, Rabbit and Trivia"
 date: "2024-01-29"
-categories: 
-  - "posts"
 ---
 
 - The week before [I wrote about TMMi](/posts/2024/01/21/the-one-where-i-never-knew-tmmi.html) and the last week I was already exploring how to combine maturity models/levels together with 4 qualities from [Google's "theory of quality"](/posts/2024/01/07/the-one-with-googles-theory-of-quality.html) or the famous [effort/output/outcome/impact model](/effort-impact-and-experimentation-in-testing/). Actually, I have started working on some draft ideas about it already. But then, I noticed a canyon-wide knowledge gap in the world of 4 qualities and their tensions between traditional (command and control) and emerging modern practices - I recognized, that I don't know much about "empowered product teams" (in contrast to traditional command-and-control product management). Luckily, not so long ago my nine-to-five colleague shared [a nice speech given by Marty Cagan on "10 Major Misconceptions About Product"](https://www.youtube.com/watch?v=Do11ib8bBUM&ab_channel=DanOlsen). As I never remember authors by name until I dig into some of their masterpieces, I did not initially recognize Marty Cagan. So I googled. And apparently, he is actually the author behind the books called "Inspired", "Empowered", "Loved" and "Transformed". It rang a bell, as the first two books were already in my Kindle (waiting for better times, a.k.a. reading motivation). So, that time has come - I started the "Empowered" the same evening.

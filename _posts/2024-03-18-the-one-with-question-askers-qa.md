@@ -1,8 +1,6 @@
 ---
 title: "The one with Question-Askers (QA)"
 date: "2024-03-18"
-categories: 
-  - "posts"
 ---
 
 - There is a saying that "testing does not win popularity contests" referring to the nuance of being a messenger voicing the important issues that can sometimes be show-stoppers. Or party-poopers. However, being an announcer of "bad news" or lack of popularity can be not the worst thing that happens to a QA specialist. This week I was shocked (and it is difficult for me to not run into conclusions) when I read about [Boeing whistleblower John Barnett found dead](https://www.bbc.com/news/business-68534703) in a hotel.  

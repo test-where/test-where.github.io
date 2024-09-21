@@ -1,8 +1,6 @@
 ---
 title: "The one with Heroes and Knowledge Sharing"
 date: "2023-12-12"
-categories: 
-  - "posts"
 ---
 
 - Recently, I ran into this topic at work, and Alan Page wrote a comprehensive must-read article ["Anti-Hero"](https://angryweasel.substack.com/p/anti-hero) about very similar behavior, so it resonated strongly with how I felt at that moment.

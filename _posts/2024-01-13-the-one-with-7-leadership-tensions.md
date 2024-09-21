@@ -1,8 +1,6 @@
 ---
 title: "The one with 7 Leadership Tensions"
 date: "2024-01-13"
-categories: 
-  - "posts"
 ---
 
 - This week I accidentally ran into an article from 2020 listing [7 tensions between traditional and emerging leadership approaches](https://hbr.org/2020/02/every-leader-needs-to-navigate-these-7-tensions). At first, I read it as an ex-manager with openness to reflect on my own managing styles and with curiosity to evaluate whether those 7 tensions make sense at all. But the further I read the more I recognized the similarities with tensions between the traditional testing school (Michael Bolton, James Bach, etc. - advocating personal education of testing professionals as highly skilled experts of their complex craft) and the "Modern Testing" school (Alan Page, Brent Jenson, Bryan Finster, Lisa Crispin, Janet Gregory, etc. - advocating that good quality is more important than good testing and that testing should be done early, should be done by everyone, and that almost everyone can learn to perform good testing).  

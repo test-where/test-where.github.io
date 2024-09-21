@@ -1,8 +1,6 @@
 ---
 title: "The one with Glue Work, Creativity, and Innovation"
 date: "2024-04-26"
-categories: 
-  - "posts"
 ---
 
 - It's been a while since the last post as I was busy with the simple joys of the first good weather this year as well as doing some not-so-usual work at work. Firstly, we were busy [enrolling our testing academy for the first time in Poland](https://www.linkedin.com/feed/update/urn:li:activity:7185906626623684608) (and if you can help by sharing the message with interested parties, please do and/or let me know). Later, as we had an idea (firstly, as a joke, but later it got serious) to organize a free-of-charge full-day testing conference, we decided to explore the demand with [a simple survey](https://www.linkedin.com/posts/justas-lauzadis_that-one-day-testing-conference-activity-7188428362434936833-6F06) (that led to some interesting conversations and possible collaborations -- exciting!) I find myself enjoying such tasks even though they are not really a part of my job description.

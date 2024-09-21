@@ -1,8 +1,6 @@
 ---
 title: "The one with Cognitive Biases"
 date: "2023-12-31"
-categories: 
-  - "posts"
 ---
 
 - This week I had a chance to re-watch the "Bohemian Rhapsody" movie for the Nth time. Not to say I really love The Queen's music, but I find some new details every time I watch this movie again. This time, the [Seven Seas of Rhye recording scene](https://www.youtube.com/watch?v=4WfIbTfpGGc&ab_channel=kehkasha) resonated with [all the buzz around experimenting](/effort-impact-and-experimentation-in-testing/).  
