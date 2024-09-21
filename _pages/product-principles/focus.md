@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Product Principles: Focus"
+title: "Focus"
 permalink: /product-principles/focus/
 ---
 
-TBC
+This page is part of [Product Principles](/product-principles/)
+
+More details TBD.

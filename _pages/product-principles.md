@@ -6,17 +6,21 @@ permalink: /product-principles/
 
 ## Model
 
-![Product principles](/_pages/product-principles/product-principles.drawio.svg)
+![Product Principles](/_pages/product-principles/product-principles.drawio.svg)
+
+Or, Product Pyramid:
+
+![Product Pyramid](/_pages/product-principles/product-pyramid.drawio.svg)
 
 ## Product
 
-**Focus**
+[**Focus**](/product-principles/focus/)
 
 - Product strategy (mission, vision, objectives, success metrics, North Star, etc.) is well-known to the whole team
 
 - The team is picking improvement ideas carefully and saying "NO" to a lot of things
 
-**Powered by Insights**
+[**Powered by Insights**](/product-principles/powered-by-insights/)
 
 - Most decisions are based on data/insights
 
