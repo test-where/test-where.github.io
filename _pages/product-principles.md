@@ -4,6 +4,8 @@ title: Product Principles
 permalink: /product-principles/
 ---
 
+Find more context and history behind the model in [Journey to Product Principles](/product-principles-journey/).
+
 ## Model
 
 ![Product Principles](/_pages/product-principles/product-principles.drawio.svg)
