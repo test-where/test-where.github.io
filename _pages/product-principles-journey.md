@@ -31,7 +31,7 @@ TMMi, QPAM, Quality Culture transition guide, etc.
 
 ### Merging Assessments
 
-![Merging Models into Product Principles](/_pages/product-principles/product-principles-merging-models.drawio.svg)
+[![Merging Models into Product Principles](/_pages/product-principles/product-principles-merging-models.drawio.svg)](/_pages/product-principles/product-principles-merging-models.drawio.svg)
 
 ### Product Principles
 
