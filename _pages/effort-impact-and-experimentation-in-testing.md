@@ -3,17 +3,16 @@ title: Effort, Impact and Experimentation in Testing
 permalink: /effort-impact-and-experimentation-in-testing/
 ---
 
-This article aims to explain how effort/output/outcome/impact model and experimentation can be used together to build a better understanding about value and impact in software engineering.
+This article aims to explain how effort-output-outcome-impact model and experimentation can be used together to build a better understanding about value and impact in software engineering.
 
-### Effort/output/outcome/impact model
+### Effort-Output-Outcome-Impact model
 
-The following material is based on effort/output/outcome/impact model from  
+![Effort-Output-Outcome-Impact](/images/effort-output-outcome-impact.drawio.svg)
+
+The following material is based on effort-output-outcome-impact model from  
 ["Measuring developer productivity? A response to McKinsey"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity) and  
 ["Measuring developer productivity? A response to McKinsey, Part 2"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-part-2),  
 therefore, please read those articles first as they clarify a lot of engineering productivity (and its measurement) related topics already.
-
-![](https://testwhere.wordpress.com/wp-content/uploads/2023/11/image.png?w=1024)
-Effort/output/outcome/impact mental model from ["Measuring developer productivity? A response to McKinsey"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
 
 ### Adaptation for quality engineering and testing
 
