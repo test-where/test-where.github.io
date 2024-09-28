@@ -48,7 +48,7 @@ And for quite some time I referenced to that model advocating the importance of 
 
 So, it was clear to focus on the right, and research to the left - how one's efforts ripple towards some measurable impact. More precisely, how efforts ripple to outputs that ripple to outcomes that ripple to impact.
 
-Exploring my role responsibilities and its relationships to other functions within the organization, I was able to sketch some helpful [impact maps](https://www.impactmapping.org/).
+Exploring my role responsibilities and its relationships to other functions within the organization and guided by the structure of Effort-Output-Outcome-Impact, I was able to sketch some helpful [impact maps](https://www.impactmapping.org/).
 
 Later, I noticed similar 4 categories apply in the context of software development as well, and inspired by this model I wrote ["Effort, Impact, and Experimentation in Testing"](/effort-impact-and-experimentation-in-testing/).
 
@@ -56,9 +56,13 @@ Later, I noticed similar 4 categories apply in the context of software developme
 
 Later, Google published its research on [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494), which aligned nicely with my ongoing journey.
 
+Process-Code-System-Product felt like a perfect mapping of Effort-Output-Outcome-Impact to the context of software engineering.
+
 ![Process-Code-System-Product](/images/process-code-system-product.png)
 
 ### Maturing
+
+The earlier advice to focus on the right and research to the left in the context of Process-Code-System-Product looked like that:
 
 ![Process-Code-System-Product maturity](/images/process-code-system-product-maturity.drawio.svg)
 
