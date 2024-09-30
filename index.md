@@ -1,6 +1,7 @@
 <script async data-uid="441afe2f7b" src="https://testwhere.ck.page/441afe2f7b/index.js"></script>
 
-Welcome to TestWhere!
+[Product Principles](/product-principles/)<br>
+Explore Product, System, Code, Process/Teamwork and Culture principles behind high-quality products.
 
 ---
 
