@@ -2,7 +2,6 @@
 layout: page
 title: "Flow"
 permalink: /product-principles/flow/
-image: logo.jpg
 ---
 
 This page is part of [Product Principles](/product-principles/)
