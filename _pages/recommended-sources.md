@@ -3,7 +3,7 @@ title: Recommended sources
 permalink: /recommended-sources/
 ---
 
-Last updated: July, 2024
+Last updated: October, 2024
 
 ### Testing newsletters
 
@@ -24,7 +24,7 @@ Other (not-so-good, but) notable mentions:
     - [Charity.wtf](https://charity.wtf/).
 - [Ingo Philipp](https://www.youtube.com/@ingo.philipp). Energetic and charismatic presenter sharing nice insights on software quality and testing.
 
-### Modern Testing
+### Modern Testing & DevOps
 
 - [Alan Page](https://www.linkedin.com/in/a-l-a-n/).
     - [AB Testing podcast](https://podcasters.spotify.com/pod/show/abtesting) (with Brent Jensen). One of the best podcasts about testing and quality ("which isn't all that modern, and not really about testing - except when it is"). If you are not a fan of not-so-small small talk, you may need to fast forward some of the beginnings, but the later parts are definitely worth it.
@@ -35,8 +35,12 @@ Other (not-so-good, but) notable mentions:
 - [Bryan Finster](https://www.linkedin.com/in/bryan-finster/). A "value stream architect" advocating practices that are really similar to Modern Testing school. Worth following on LinkedIn as he often writes insightful posts and comments.
     - [Bryan Finster - Medium](https://bdfinst.medium.com/)
     - [Minimum Viable CD](https://minimumcd.org/minimumcd/)
-- [William Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming). “Grandfather of quality”. Many modern testing and quality ideas can be traced back to Deming's principles from the 1950s-1980s.
+- [John Willis](https://www.linkedin.com/in/johnwillisatlanta/). An amazing author, tech historian, one of the fathers of the DevOps.
+    - [What DevOps Means to Me](https://www.chef.io/blog/what-devops-means-to-me). Cornerstones of DevOps - Culture, Automation, Measurement and Sharing - explained as they were understood in 2010.
+    - [Deming to Devops: The Science Behind Devops](https://www.youtube.com/watch?v=QcRWQIL5qus&ab_channel=O%27Reilly)
+    - [Devops and Dr Deming’s 14 Points](https://www.youtube.com/watch?v=7g3uqSzWVZs&ab_channel=O%27Reilly)
     - ["Deming's Journey to Profound Knowledge" (book)](https://www.goodreads.com/book/show/122800609-deming-s-journey-to-profound-knowledge)
+    - [William Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming). “Grandfather of quality”. Many modern testing and quality ideas can be traced back to Deming's principles from the 1950s-1990s.
 
 ### Holistic Testing
 
@@ -103,6 +107,7 @@ Other (not-so-good, but) notable mentions:
 
 - [Accelerate State of DevOps Report (DORA)](https://dora.dev/publications/). Not only does it provide insightful findings, but it also describes all the methodology behind the research setting a nice example of how to treat your assumptions (learning opportunity?)
     - [DORA capability catalog](https://dora.dev/devops-capabilities/). "Each of the articles below presents a capability, discusses how to implement it, and how to overcome common obstacles."
+    - [DORA community discussions](https://www.youtube.com/playlist?list=PLMtxeMdO4DaDmWE8raSDr-uju3j91x21w). Interesting discussions captured as a YouTube playlist.
 - [The New Future of Work](https://www.microsoft.com/en-us/research/project/the-new-future-of-work/overview/). Research by Microsoft.
 - [PractiTest State of Testing Survey](https://www.practitest.com/state-of-testing/). Well-designed survey providing interesting reports about the testing industry across various cross-sections such as personal information, education, training, testing practices in organization, and personal development.
 - [Future of Quality Assurance Survey](https://www.lambdatest.com/future-of-quality-assurance-survey) powered by LambdaTest.
