@@ -47,3 +47,7 @@ The practice of visualizing flow through VSM brings the following benefits for o
 * [DORA guide to value stream mapping](https://dora.dev/guides/value-stream-management/). A good article to start exploring VSM, Flow Engineering, and how two critical value streams (happy path and recovering) can be indicated with DORA metrics.
 * [Flow Engineering](https://www.goodreads.com/book/show/126132673-flow-engineering) (Book)
 * [DORA Community Discussion - Value Stream Mapping](https://www.youtube.com/watch?v=HBEtKSIznn0&ab_channel=DORA) (Video) - a discussion based on the article above
+
+## Value, but not really
+
+Note that while Value Stream Mapping refers "Value", it focuses on process optimization within a given workflow. VSM is tactical, often used to find inefficiencies in an existing process. Therefore, it does not cover strategic perspective (Product, Vision, Mission, Business Goals, Impact Mapping, etc. - see [Focus](/product-principles/focus/)).
