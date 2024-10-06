@@ -10,7 +10,7 @@ Find more context and history behind the model in [Journey to Product Principles
 
 ![Product Principles](/_pages/product-principles/product-principles.drawio.svg)
 
-Or, Product Pyramid:
+Or, **Product Pyramid**:
 
 ![Product Pyramid](/_pages/product-principles/product-pyramid.drawio.svg)
 
@@ -85,6 +85,18 @@ Or, Product Pyramid:
 - Understanding of value and quality is based on product strategy and business outcomes, not delivered volume of code/features (or story points)
 
 - Progress is measured by outcomes, not effort (as effort without progress is useless)
+
+[**Flow**](/product-principles/flow/)
+
+- Delivering fast and making work visible
+
+- Limiting work-in-progress (WIP)
+
+- Reducing batch sizes
+
+- Reducing hand-offs between teams
+
+- Identifying and removing constraints and waste
 
 [**Sense of Ownership**](/product-principles/sense-of-ownership/)
 
