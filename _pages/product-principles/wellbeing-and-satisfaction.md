@@ -8,7 +8,7 @@ This page is part of [Product Principles](/product-principles/)
 
 ## The greatest waste
 
-"The greatest waste <...> is failure to use the ability of people." - Out of the Crisis by W. Edwards Deming.
+"The greatest waste <...> is failure to use the ability of people." - "Out of the Crisis" by W. Edwards Deming.
 
 What is needed to take advantage of the ability of people is to create systems that:
 
@@ -21,3 +21,8 @@ What is needed to take advantage of the ability of people is to create systems t
 * Support intrinsic motivation
 
 From: [The Greatest Waste - The W. Edwards Deming Institute](https://deming.org/the-greatest-waste/)
+
+## Read more
+
+* [Well-being - DORA](https://dora.dev/capabilities/well-being/)
+* [Job satisfaction - DORA](https://dora.dev/capabilities/job-satisfaction/)
