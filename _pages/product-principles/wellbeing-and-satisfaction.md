@@ -26,3 +26,4 @@ From: [The Greatest Waste - The W. Edwards Deming Institute](https://deming.org/
 
 * [Well-being - DORA](https://dora.dev/capabilities/well-being/)
 * [Job satisfaction - DORA](https://dora.dev/capabilities/job-satisfaction/)
+* ["How Hard Should Your Employer Work To Retain You?" - Charity Majors](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
