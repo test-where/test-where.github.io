@@ -7,7 +7,7 @@ date: "2024-10-12"
 
     - The talk I prepared was based on my [Journey to Product Principles](/product-principles-journey/) (in a mix with explanations how I think, how I progressed in my career, what am I solving now), it was captured as a video and now stored in Youtube - ["Striving in the Gap. Impact Engineering"](https://www.youtube.com/watch?v=-sVasQ1RcbU&ab_channel=QLTYPULSE)
 
-    - The conference we built was a massive success to my judgement. It took months and months to prepare and the event day passed in a flash, but it was worth it. All the quality talks, all the conversations, challenging questions, engagement from the audience, networking, after party - it has them all. I was hearing a lot of and it popped in my head several times - "what's next?" Let's leave this unanswered for now.
+    - The conference we built was a massive success to my judgement. It took months and months to prepare and the event day passed in a flash, but it was worth it. All the quality talks, all the conversations, challenging questions, engagement from the audience, networking, after party - it had them all. I was hearing a lot of and it popped in my head several times - "what's next?" Let's leave this unanswered for now.
     
     [The next day after QLTY PULSE conference I felt very happy](https://www.linkedin.com/posts/justas-lauzadis_wearing-the-same-t-shirt-two-days-in-a-row-activity-7247927428713463809-bjjX/). I felt proud with our organizing team as well as with all the people who joined us as sponsors, supporters or attendees. I felt we did a great **job** and I was very **satisfied**.
 
