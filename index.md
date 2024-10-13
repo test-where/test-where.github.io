@@ -3,7 +3,7 @@
 <table border="0px">
     <tbody>
         <tr>
-            <td vertical-align="center" width="120px">
+            <td align="center" vertical-align="center" width="120px">
                 <img src="logo-product-principles.png" width="100px">
             </td>
             <td vertical-align="center">
@@ -18,7 +18,7 @@
 <table border="0px">
     <tbody>
         <tr>
-            <td vertical-align="center" width="120px">
+            <td align="center" vertical-align="center" width="120px">
                 <img src="logo.jpg" width="100px">
             </td>
             <td vertical-align="center">
