@@ -1,6 +1,6 @@
 <script async data-uid="441afe2f7b" src="https://testwhere.ck.page/441afe2f7b/index.js"></script>
 
-<table>
+<table border="0px">
     <tbody>
         <tr>
             <td vertical-align="center" width="120px">
@@ -15,7 +15,7 @@
 
 ---
 
-<table>
+<table border="0px">
     <tbody>
         <tr>
             <td vertical-align="center" width="120px">
