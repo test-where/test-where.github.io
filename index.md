@@ -20,7 +20,7 @@
                 <img src="logo.jpg" width="100px">
             </td>
             <td vertical-align="center">
-                <p>Do you want to be notified as soon as new content gets published?<br><a data-formkit-toggle="441afe2f7b" href="https://testwhere.ck.page/441afe2f7b">Subscribe to the Newsletter!</a><br></p>
+                <p>Get notified as soon as new content gets published.<br><a data-formkit-toggle="441afe2f7b" href="https://testwhere.ck.page/441afe2f7b">Subscribe to the Newsletter!</a><br></p>
             </td>
         </tr>
     </tbody>
