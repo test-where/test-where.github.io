@@ -8,11 +8,11 @@ Find more context and history behind the model in [Journey to Product Principles
 
 ## Model
 
-![Product Principles](/_pages/product-principles/product-principles.drawio.svg)
+[![Product Principles](/_pages/product-principles/product-principles.drawio.svg)](/_pages/product-principles/product-principles.drawio.svg)
 
 Or, **Product Pyramid**:
 
-![Product Pyramid](/_pages/product-principles/product-pyramid.drawio.svg)
+[![Product Pyramid](/_pages/product-principles/product-pyramid.drawio.svg)](/_pages/product-principles/product-pyramid.drawio.svg)
 
 ## Product
 
