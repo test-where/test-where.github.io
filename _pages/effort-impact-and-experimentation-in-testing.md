@@ -30,7 +30,7 @@ Not sure if that is really an adaptation as very similar principles apply:
 > 
 > Don’t ignore the effort and output people and teams produce, though! Instead of measuring them, use this to debug issues with outcomes or impact.
 > 
-> Quote from ["Measuring developer productivity? A response to McKinsey, Part 2"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-part-2)
+> \- ["Measuring developer productivity? A response to McKinsey, Part 2"](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-part-2)
 
 Therefore, when considering various typical quality metrics it is worth understanding whether such metrics will be measuring more of our efforts and outputs, or outcomes and impact.
 
@@ -73,13 +73,13 @@ Experimentation principles can and should be applied to software engineering as 
 
 > "The product is a solution. If the problem isn’t solved, the product doesn’t work."
 > 
-> Principle #5 from [Context Driven Testing Principles](https://context-driven-testing.com/).
+> \- Principle #5 from [Context Driven Testing Principles](https://context-driven-testing.com/).
 
 The most important problem in the project is the business problem the product is solving. The product aims to provide a solution to that problem, but be careful - that is an assumption (or hypothesis). Therefore, we arrive to the most important test (or experiment) - to examine the solution (outcome) to see whether it is actually solving the business problem (whether it makes an impact).
 
 > "One of the biggest hurdles to delivering something valuable is assuming the idea is valuable. Instead, we should treat the idea as a value hypothesis."
 > 
-> From ["5-Minute DevOps: The Three Wrongs" by Bryan Finster](https://medium.com/defense-unicorns/5-minute-devops-the-three-wrongs-6c660f1287e7)
+> \- ["5-Minute DevOps: The Three Wrongs" by Bryan Finster](https://medium.com/defense-unicorns/5-minute-devops-the-three-wrongs-6c660f1287e7)
 
 In other words, **the most important tests are in the part #3 (Outcome -> Impact)**. That does not mean that parts #1 and #2 are somehow less important - they cannot be skipped, their quality may transform into higher or lower impact to business or end-users, so typically, they will be done first and with more investment than #3. But still, experiments for part #3 should be carried out and cannot be forgotten or worse - assumed.
 
