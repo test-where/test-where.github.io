@@ -3,7 +3,7 @@ title: Recommended sources
 permalink: /recommended-sources/
 ---
 
-Last updated: October, 2024
+Last updated: February, 2025
 
 ### Testing newsletters
 
@@ -112,6 +112,9 @@ Other (not-so-good, but) notable mentions:
 - [PractiTest State of Testing Survey](https://www.practitest.com/state-of-testing/). Well-designed survey providing interesting reports about the testing industry across various cross-sections such as personal information, education, training, testing practices in organization, and personal development.
 - [Future of Quality Assurance Survey](https://www.lambdatest.com/future-of-quality-assurance-survey) powered by LambdaTest.
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar) is a snapshot of tools, techniques, platforms, languages and frameworks based on the practical experiences of Thoughtworkers around the world.
+- InfoQ
+    - [InfoQ Software Architecture and Design Trends Report (April 2024)](https://www.infoq.com/articles/architecture-trends-2024/)
+    - [InfoQ Culture & Methods Trends Report (April 2024)](https://www.infoq.com/articles/culture-trends-2024/)
 
 Other (not-so-good, but) notable mentions:
 
