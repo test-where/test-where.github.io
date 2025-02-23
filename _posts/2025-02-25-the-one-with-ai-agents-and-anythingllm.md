@@ -26,6 +26,8 @@ date: "2025-02-23"
     - Building custom agent flows and executing them from the chat.
     
     - Adding custom agent tools via JavaScript.
+
+    - Prompting workspaces via API.
     
     - (Workspace) infrastructure as a code? (and proper CI/CD for solution development)
     
