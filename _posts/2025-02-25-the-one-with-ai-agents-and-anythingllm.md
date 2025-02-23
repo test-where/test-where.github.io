@@ -33,4 +33,4 @@ date: "2025-02-23"
     
     - ...
 
-- I feel like AnythingLLM is a nice tool to get some hands-on experience with the topic with a huge ROI. Desktop app setup is easy-peasy, and if you want to get your hands dirty with Docker setup - I have a [ready-to-go setup in this GitHub repo](https://github.com/test-where/anythingllm-setup). Have fun! (I will sure do.)
+- I feel like AnythingLLM is a nice tool to get some hands-on experience in the topic of AI agents, flows and RAG with a huge ROI. Desktop app setup is easy-peasy, and if you want to get your hands dirty with Docker setup - I have a [ready-to-go setup in this GitHub repo](https://github.com/test-where/anythingllm-setup). Have fun! (I will sure do.)
