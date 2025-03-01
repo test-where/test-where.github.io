@@ -13,7 +13,7 @@ date: "2025-02-23"
     
     - AnythingLLM workspaces are extremely easy to adjust (chat prompt (to adjust the persona), temperature, suggested messages, etc.)
     
-    - You can upload documents to get more context to your workspace. However, I had a chance to test it against ChatGPT Projects, so AnythingLLM does not give priority to uploaded content by default while ChatGPT does. Later, I was able to achieve something similar to that expected behavior by adjusting the workspace settings (chat prompt).
+    - You can upload documents to add more context to your workspace. However, I had a chance to test it against ChatGPT Projects, so AnythingLLM does not give priority to uploaded content by default while ChatGPT does. Later, I was able to achieve something similar to that expected behavior by adjusting the workspace settings (chat prompt).
     
     - AnythingLLM agent is far slower than a single prompt (which is logical), lacks accuracy, and does not feel that smart under the hood. But I assume, that is me, learning curve, not the tool - as I was not able to enable all the available agent tools.
     
@@ -33,4 +33,4 @@ date: "2025-02-23"
     
     - ...
 
-- I feel like AnythingLLM is a nice tool to get some hands-on experience with the topic with a huge ROI. Desktop app setup is easy-peasy, and if you want to get your hands dirty with Docker setup - I have a [ready-to-go setup in this GitHub repo](https://github.com/test-where/anythingllm-setup). Have fun! (I will sure do.)
+- I feel like AnythingLLM is a nice tool to get some hands-on experience in the topic of AI agents, flows and RAG with a huge ROI. Desktop app setup is easy-peasy, and if you want to get your hands dirty with Docker setup - I have a [ready-to-go setup in this GitHub repo](https://github.com/test-where/anythingllm-setup). Have fun! (I will sure do.)
