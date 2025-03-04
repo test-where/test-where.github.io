@@ -3,15 +3,15 @@ title: "Testing Jobs Salaries in Lithuania 2025"
 date: "2025-03-04"
 ---
 
-The following article is based on testing jobs salary survey in Lithuania.
+The following article is based on [a testing jobs salary survey in Lithuania](https://www.linkedin.com/posts/deimantas-liubertas_kiek-lietuvoje-u%C5%BEdirba-qa-2025-activity-7297203695379738625-CWHt/).
 
 After I composed [a similar article in 2024](/_pages/testing-jobs-salaries-in-lithuania-2024.html)...
 
-...[Deimantas Liubertas](https://www.linkedin.com/in/deimantas-liubertas/) and [Kristina Pečiukonytė](https://www.linkedin.com/in/kristina-pe%C4%8Diukonyt%C4%97-473b998/) invited me to join the efforts this year!
+...[Deimantas Liubertas](https://www.linkedin.com/in/deimantas-liubertas/) and [Kristina Pečiukonytė](https://www.linkedin.com/in/kristina-pe%C4%8Diukonyt%C4%97-473b998/) invited me to join the efforts this year, so I gladly did! IMHO, survey improvements this year helped to build a better understanding, uncover new findings, and gain some more trust in collected data quality.
 
 Also, Deimantas has provided a comprehensive [video overview of the results](#TODO) including comparisons of averages between roles, geographies/cities, year-to-year trends, qualitative feedback, and more. All in all, it is a great initiative!
 
-However, as I like to play with data myself, Deimantas kindly shared anonymized data with me, so I could draw some charts myself. Or chart - a single one. I dropped all the data (leaving out two data points that were above 10k, and fixing/removing 2-3 anomalies) into a scatter plot, added some colors, some (polynomial) trend lines (so it got similar to atom energy levels diagram), and voila:
+Traditionally, I am serving a scatter plot and some of analysis and insights below.
 
 ![](/images/tester-salaries-lithuania-2025.png)
 
@@ -40,8 +40,8 @@ On the other hand, there is a group (~10) of Seniors with 8+ years below 4000 Eu
 
 **Lead** (Principal, Staff roles, "middle management"). Interval starts at 3 years of experience (vs a single data point with 4 years of experience last year) showing that promotions to Lead roles happen no earlier than around 3-4 years of experience. (Isn't that too early?)
 
-The trend line starts at ~4000 Eur/month and rises towards ~6000 Eur/month at 10+ years of experience. Colleting wider range of years of experience this year shows that Lead role salary hits "market standard" of ~6000 Eur/month and most of "data points" with 10+ years of experience stay around that mark. Only a few Leads get close to or above 7000 Eur/month.
+The trend line starts at ~4000 Eur/month and rises towards ~6000 Eur/month at 10+ years of experience. Colleting wider range of years of experience this year shows that Lead role salary hits "market standard" of ~6000 Eur/month and most of Leads with 10+ years of experience stay around that mark. Only a few Leads get close to or above 7000 Eur/month.
 
-**Manager** (Directive, Head of QA/Testing roles, Lead of Leads). Interval starts at 6 years of experience (with a single data point with 6 years of experience, and others starting at 7 and 9 years of experience) showing that promotions to Manager/Director roles typically happen no earlier than around 8-9 years of experience. The trend line does not say much as data points are highly scattered saying "it depends".
+**Manager** (Directive, Head of QA/Testing roles, Lead of Leads). Interval starts at 6 years of experience (with a single data point with 6 years of experience, and others starting at 7 and 9 years of experience) showing that promotions to Manager/Director roles typically happen no earlier than around 8-9 years of experience. The trend line does not make much sense as data points are highly scattered saying "it depends".
 
 However, if you really want to get some insight - one can see a gap separating two groups of Managers/Directors - one group is around 5000-6000 Eur/month band, and the other at 8000-10000 Eur/month (yeah, and that one point at 13500 Eur/month).
