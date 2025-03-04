@@ -8,7 +8,7 @@ author:
 description: >
   Build clarity and quality will follow.
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@2.5.2
 
 plugins:
   - jekyll-feed
@@ -24,9 +24,6 @@ minima:
   nav_pages:
     - _pages/recommended-sources.md
     - _pages/about.md
-  social_links:
-    - { platform: github,         user_url: "https://github.com/test-where/test-where.github.io" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/justas-lauzadis" }
 
 google_analytics: G-DQWGHDTX0W
 
