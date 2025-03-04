@@ -8,7 +8,7 @@ author:
 description: >
   Build clarity and quality will follow.
 
-remote_theme: jekyll/minima@3.10.0
+remote_theme: jekyll/minima@2.5.1
 
 plugins:
   - jekyll-feed
